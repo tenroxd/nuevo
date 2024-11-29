@@ -81,3 +81,6 @@
 [29Nov2024 03:27:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [29Nov2024 03:27:49.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
 [29Nov2024 03:46:40.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Nov2024 04:10:32.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -10.723439900563335,0.0,0.7912668008863193
+[29Nov2024 04:11:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Survival Mode]
+[29Nov2024 04:12:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Creative Mode]

@@ -5846,6 +5846,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/food/monster_feed_2": {
+    "criteria": {
+      "has_experience_diamond": "2024-11-29 04:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-29 03:54:54 +0000"
