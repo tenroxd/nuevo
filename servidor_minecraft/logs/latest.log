@@ -84,3 +84,19 @@
 [29Nov2024 04:10:32.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -10.723439900563335,0.0,0.7912668008863193
 [29Nov2024 04:11:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Survival Mode]
 [29Nov2024 04:12:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Creative Mode]
+[29Nov2024 04:26:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Survival Mode]
+[29Nov2024 04:27:49.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[29Nov2024 04:27:49.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[29Nov2024 04:28:03.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Nov2024 04:28:03.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 04:28:03.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 04:28:03.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 04:28:03.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Nov2024 04:28:03.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Nov2024 04:28:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Nov2024 04:28:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 04:28:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 04:28:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 04:28:04.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Nov2024 04:28:04.092] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Nov2024 04:28:04.093] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
