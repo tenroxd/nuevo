@@ -80,3 +80,4 @@
 [29Nov2024 03:27:46.130] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.160.249.23:40947] logged in with entity id 618 at (-1309.300000011921, 52.0, 148.3730351284369)
 [29Nov2024 03:27:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [29Nov2024 03:27:49.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[29Nov2024 03:46:40.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
