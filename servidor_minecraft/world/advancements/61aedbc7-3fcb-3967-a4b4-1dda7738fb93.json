@@ -6317,5 +6317,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/shaman": {
+    "criteria": {
+      "kill": "2024-11-29 21:07:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

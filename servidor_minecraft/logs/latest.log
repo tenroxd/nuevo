@@ -177,3 +177,17 @@
 [29Nov2024 21:04:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Shaman
 [29Nov2024 21:04:28.440] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [29Nov2024 21:04:35.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> jkaskjase
+[29Nov2024 21:04:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mimir?
+[29Nov2024 21:06:07.264] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:06:14.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza was kicked for floating too long!
+[29Nov2024 21:06:14.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Flying is not enabled on this server
+[29Nov2024 21:06:14.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[29Nov2024 21:06:24.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.17.162.141:38339] logged in with entity id 23840 at (-1475.4412647498928, 81.31928226346892, 138.9684543418444)
+[29Nov2024 21:06:24.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[29Nov2024 21:09:58.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:09:58.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 21:14:29.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wn
+[29Nov2024 21:14:35.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que pajo
+[29Nov2024 21:14:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ve la wea q mande al insta
+[29Nov2024 21:14:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> quede helao wn
+[29Nov2024 21:15:01.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> altoq
