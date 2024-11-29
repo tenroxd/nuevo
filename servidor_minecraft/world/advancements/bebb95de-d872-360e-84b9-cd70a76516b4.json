@@ -5901,5 +5901,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 22:18:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
