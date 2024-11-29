@@ -3552,3 +3552,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Nov2024 22:55:39.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
 [29Nov2024 22:55:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> es un encantamiento qlo que manda a volar a los wnes
 [29Nov2024 22:55:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dale qlo
+[29Nov2024 22:58:18.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Creative Mode]
+[29Nov2024 22:59:37.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:59:37.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:04:37.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:04:37.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:05:10.983] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=140}
+[29Nov2024 23:05:10.983] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1299, y=56, z=134}
+[29Nov2024 23:05:10.983] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=141}
+[29Nov2024 23:06:05.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -0.023674690232837747,0.0,10.604293006944417
+[29Nov2024 23:06:15.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -10.741351946986242,0.0,0.10363723208348574
+[29Nov2024 23:06:18.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
