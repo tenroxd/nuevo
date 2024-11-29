@@ -5804,6 +5804,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_ceiling_light": "2024-11-29 04:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2024-11-29 03:54:54 +0000"
@@ -5822,9 +5828,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2024-11-29 04:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 03:54:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2024-11-29 04:04:31 +0000"
     },
     "done": true
   },
@@ -5837,6 +5855,12 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2024-11-29 03:54:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2024-11-29 04:04:31 +0000"
     },
     "done": true
   },
