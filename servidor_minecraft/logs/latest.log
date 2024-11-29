@@ -444,3 +444,9 @@
 [29Nov2024 23:06:05.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -0.023674690232837747,0.0,10.604293006944417
 [29Nov2024 23:06:15.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -10.741351946986242,0.0,0.10363723208348574
 [29Nov2024 23:06:18.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 23:09:32.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 23:13:06.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 23:13:18.364] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Nov2024 23:13:26.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! -6.201116939337226E-4,0.0,11.024342939906319
+[29Nov2024 23:16:02.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! 10.746606983214178,0.0,0.949739170730254
+[29Nov2024 23:18:09.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Survival Mode]
