@@ -92,3 +92,4 @@
 [30Nov2024 03:38:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Creative Mode]
 [30Nov2024 03:43:34.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [30Nov2024 04:09:47.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Nov2024 04:20:51.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
