@@ -5913,5 +5913,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-12-01 20:57:43 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

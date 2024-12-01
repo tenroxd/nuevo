@@ -82,3 +82,4 @@
 [01Dec2024 20:46:26.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.85.168.41:52459] logged in with entity id 618 at (-1463.487925681782, 103.0, 160.64667322398188)
 [01Dec2024 20:46:26.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [01Dec2024 20:46:30.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
+[01Dec2024 20:56:42.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
