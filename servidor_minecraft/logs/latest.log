@@ -115,3 +115,5 @@
 [01Dec2024 20:13:33.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy a comprar y vuelvo
 [01Dec2024 20:13:41.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [01Dec2024 20:13:41.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[01Dec2024 20:20:12.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! 10.092198000297913,-0.31584068584129454,0.20661663194775315
+[01Dec2024 20:22:00.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
