@@ -117,3 +117,29 @@
 [01Dec2024 20:13:41.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
 [01Dec2024 20:20:12.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! 10.092198000297913,-0.31584068584129454,0.20661663194775315
 [01Dec2024 20:22:00.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 20:32:50.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.85.168.41:55933] logged in with entity id 52498 at (-1288.0890225356413, 69.0, 139.11636000076763)
+[01Dec2024 20:32:50.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[01Dec2024 20:33:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oli
+[01Dec2024 20:34:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> o las devuelves o tu casa se quema
+[01Dec2024 20:34:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q cosa
+[01Dec2024 20:34:34.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> estoy llendo a quemarte la casa
+[01Dec2024 20:34:41.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> no sabi na de arte
+[01Dec2024 20:34:49.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 20:35:09.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te dije la otra ves
+[01Dec2024 20:35:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no llori qlo
+[01Dec2024 20:35:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> que cosa
+[01Dec2024 20:35:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> el hierro
+[01Dec2024 20:35:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> que hierro qlo si vo eri el que anda robando weas
+[01Dec2024 20:35:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> estoy llendo a quemarte la wea
+[01Dec2024 20:35:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aweonao si dejaste bambu
+[01Dec2024 20:36:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> me viste care panda
+[01Dec2024 20:36:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el bambu es del jaime
+[01Dec2024 20:36:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te voy a quemar la casa
+[01Dec2024 20:36:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> estoy llendo por el puente pa que sepas
+[01Dec2024 20:36:47.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> lo material no reemplaza al arte
+[01Dec2024 20:36:58.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 20:37:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tirare la lava del segundo piso
+[01Dec2024 20:38:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza burned to death
+[01Dec2024 20:38:14.566] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[01Dec2024 20:38:19.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[01Dec2024 20:38:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
