@@ -81,3 +81,30 @@
 [01Dec2024 19:49:24.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.85.168.41:33875] logged in with entity id 619 at (-1323.5, 49.0, 148.5)
 [01Dec2024 19:49:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [01Dec2024 19:49:27.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[01Dec2024 20:01:30.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.17.162.141:46119] logged in with entity id 4555 at (-1465.7575851373042, 103.0, 153.09168450470324)
+[01Dec2024 20:01:30.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[01Dec2024 20:01:47.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q pasa mwelra
+[01Dec2024 20:02:54.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> TENGO MALOS LOS AUDIFONOS
+[01Dec2024 20:03:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> YO SI TE ESCUCHO MIERDA
+[01Dec2024 20:03:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> PERO NO PUEDO HABLAR
+[01Dec2024 20:03:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ASI QUE TE ESCRIBO
+[01Dec2024 20:05:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> Tay en tu casa?
+[01Dec2024 20:06:01.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[01Dec2024 20:06:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[01Dec2024 20:06:01.464] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 20:06:02.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oe qlo
+[01Dec2024 20:06:11.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.17.162.141:43405] logged in with entity id 5753 at (-1465.7575851373042, 103.0, 153.09168450470324)
+[01Dec2024 20:06:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[01Dec2024 20:06:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en tu casa?
+[01Dec2024 20:06:27.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dime}
+[01Dec2024 20:06:40.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Dec2024 20:06:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en tu casa mierda?}
+[01Dec2024 20:06:50.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> se wn
+[01Dec2024 20:06:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
+[01Dec2024 20:07:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aun no he muerto pero de ahi lo arreglo
+[01Dec2024 20:07:18.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> donde las vacas ahora
+[01Dec2024 20:07:21.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! -8.374496259758644,-5.233632006042484,2.2284628527160635
+[01Dec2024 20:07:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dime cuanto te quito
+[01Dec2024 20:07:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> lagaso me pegai
+[01Dec2024 20:07:37.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> cuanto?
+[01Dec2024 20:07:44.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> 0
