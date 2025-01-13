@@ -2634,3 +2634,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Jan2025 23:14:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
 [13Jan2025 23:16:55.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 23:16:55.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 23:21:55.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 23:21:55.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 23:26:09.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[13Jan2025 23:26:55.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 23:26:55.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 23:28:19.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Enchanter]
