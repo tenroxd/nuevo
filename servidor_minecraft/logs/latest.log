@@ -99,3 +99,22 @@
 [13Jan2025 23:14:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
 [13Jan2025 23:26:09.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [13Jan2025 23:28:19.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Enchanter]
+[13Jan2025 23:32:31.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo lost connection: Disconnected
+[13Jan2025 23:32:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo left the game
+[13Jan2025 23:32:38.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[13Jan2025 23:32:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[13Jan2025 23:32:40.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[13Jan2025 23:32:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[13Jan2025 23:32:53.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jan2025 23:32:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2025 23:32:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2025 23:32:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2025 23:32:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jan2025 23:32:53.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jan2025 23:32:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jan2025 23:32:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jan2025 23:32:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2025 23:32:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2025 23:32:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jan2025 23:32:53.600] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jan2025 23:32:53.601] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
