@@ -82,3 +82,7 @@
 [16Jan2025 19:22:42.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
 [16Jan2025 19:22:45.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
 [16Jan2025 19:23:22.622] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jan2025 19:27:50.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimomo[/127.21.243.76:51031] logged in with entity id 2038 at (-174.14599629797198, 84.0, 23.93563643857641)
+[16Jan2025 19:27:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo joined the game
+[16Jan2025 19:28:56.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimomo> ds
+[16Jan2025 19:28:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voi
