@@ -2655,3 +2655,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Jan2025 19:56:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was slain by Bone Knight
 [16Jan2025 19:56:06.332] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jaimomo was created at position [x:-1325, y:39, z:100, dim:minecraft:overworld]
 [16Jan2025 19:56:06.347] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[16Jan2025 19:56:39.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 19:56:39.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 20:01:39.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 20:01:39.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 20:03:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Cover Me with Diamonds]
+[16Jan2025 20:06:39.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 20:06:39.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
