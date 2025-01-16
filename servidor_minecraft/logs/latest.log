@@ -122,3 +122,11 @@
 [16Jan2025 01:57:36.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tengo verruga de nether
 [16Jan2025 01:58:52.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> pa las pociones
 [16Jan2025 02:00:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> si wnn eesa era la mision
+[16Jan2025 02:02:51.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ahora como vuelvo
+[16Jan2025 02:03:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tepeate
+[16Jan2025 02:03:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> como?
+[16Jan2025 02:04:25.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy a hacerme una wea pa comer y vuelvo
+[16Jan2025 02:04:30.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[16Jan2025 02:04:30.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[16Jan2025 02:05:43.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16Jan2025 02:10:10.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
