@@ -153,3 +153,7 @@
 [16Jan2025 02:30:26.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Timed out
 [16Jan2025 02:30:26.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
 [16Jan2025 02:30:27.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ahi siiipo
+[16Jan2025 02:34:03.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jan2025 02:35:45.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:60413] logged in with entity id 52291 at (-1331.0581883232999, 104.0, 92.70721536461464)
+[16Jan2025 02:35:45.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[16Jan2025 02:36:09.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> cuando su melvin
