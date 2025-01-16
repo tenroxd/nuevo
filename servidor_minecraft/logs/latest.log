@@ -111,3 +111,10 @@
 [16Jan2025 19:56:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was slain by Bone Knight
 [16Jan2025 19:56:06.347] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
 [16Jan2025 20:03:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Cover Me with Diamonds]
+[16Jan2025 20:08:45.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Magic Writing]
+[16Jan2025 20:12:25.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:43273] logged in with entity id 105686 at (-1311.352149427511, 69.0, 152.64301778545695)
+[16Jan2025 20:12:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[16Jan2025 20:12:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me chupan el pn
+[16Jan2025 20:13:06.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> en 5 min les cierro el sv
+[16Jan2025 20:13:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> 1500 pa una empana del lico lico y los dejo mas tiempo
+[16Jan2025 20:15:37.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
