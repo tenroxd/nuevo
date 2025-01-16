@@ -126,3 +126,5 @@
 [16Jan2025 20:23:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimomo> no
 [16Jan2025 20:23:59.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [16Jan2025 20:24:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> pene
+[16Jan2025 20:30:46.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[16Jan2025 20:30:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
