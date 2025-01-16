@@ -128,3 +128,5 @@
 [16Jan2025 20:24:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> pene
 [16Jan2025 20:30:46.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [16Jan2025 20:30:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[16Jan2025 20:46:39.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:55911] logged in with entity id 150259 at (-1283.5, 61.025, 136.5)
+[16Jan2025 20:46:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
