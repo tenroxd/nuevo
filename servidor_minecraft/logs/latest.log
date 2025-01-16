@@ -86,3 +86,27 @@
 [16Jan2025 19:27:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo joined the game
 [16Jan2025 19:28:56.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimomo> ds
 [16Jan2025 19:28:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voi
+[16Jan2025 19:51:15.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was slain by Corpse Maggot
+[16Jan2025 19:51:15.914] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[16Jan2025 19:51:31.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo was kicked for floating too long!
+[16Jan2025 19:51:31.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo lost connection: Disconnected
+[16Jan2025 19:51:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo left the game
+[16Jan2025 19:51:31.691] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jan2025 19:51:39.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimomo[/127.21.243.76:54547] logged in with entity id 34701 at (-1482.5861896045217, 82.78549238931866, 138.53798572148045)
+[16Jan2025 19:51:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo joined the game
+[16Jan2025 19:51:47.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo was kicked for floating too long!
+[16Jan2025 19:51:47.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo lost connection: Flying is not enabled on this server
+[16Jan2025 19:51:47.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo left the game
+[16Jan2025 19:51:54.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimomo[/127.21.243.76:49075] logged in with entity id 35329 at (-1482.5861896045217, 67.71204265723162, 138.53798572148045)
+[16Jan2025 19:51:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo joined the game
+[16Jan2025 19:52:58.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Bone Knight
+[16Jan2025 19:52:58.431] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[16Jan2025 19:53:13.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza was kicked for floating too long!
+[16Jan2025 19:53:13.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Flying is not enabled on this server
+[16Jan2025 19:53:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[16Jan2025 19:53:22.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:34235] logged in with entity id 40189 at (-1440.454988664083, 85.28549238931866, 142.19083828344597)
+[16Jan2025 19:53:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[16Jan2025 19:55:49.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Bone Knight
+[16Jan2025 19:55:49.838] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[16Jan2025 19:56:06.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was slain by Bone Knight
+[16Jan2025 19:56:06.347] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
