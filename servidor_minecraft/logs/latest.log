@@ -98,3 +98,18 @@
 [16Jan2025 01:40:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza burned to death
 [16Jan2025 01:40:25.137] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [16Jan2025 01:41:31.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16Jan2025 01:41:54.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16Jan2025 01:43:22.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was fireballed by Ghast
+[16Jan2025 01:43:22.943] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[16Jan2025 01:43:26.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kjaskjsajkaskjaskj
+[16Jan2025 01:43:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> gas culiaos direccionan la wea
+[16Jan2025 01:45:06.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[16Jan2025 01:45:06.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[16Jan2025 01:45:06.531] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jan2025 01:46:39.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.57.164.129:59729] logged in with entity id 15372 at (-1335.3011775667765, 95.0, 105.14047270828166)
+[16Jan2025 01:46:39.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[16Jan2025 01:48:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
+[16Jan2025 01:49:38.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16Jan2025 01:49:40.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> vuelvo altoq
+[16Jan2025 01:49:45.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[16Jan2025 01:49:45.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
