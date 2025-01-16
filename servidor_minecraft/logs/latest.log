@@ -130,3 +130,13 @@
 [16Jan2025 20:30:46.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
 [16Jan2025 20:46:39.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:55911] logged in with entity id 150259 at (-1283.5, 61.025, 136.5)
 [16Jan2025 20:46:39.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[16Jan2025 20:48:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ARMAME ESTA
+[16Jan2025 20:55:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> es brigida
+[16Jan2025 20:55:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> la otra vez se la tire al lgogonza
+[16Jan2025 20:55:27.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y cago skjkjaskjasjas
+[16Jan2025 20:56:18.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kjaskjsakjkjsakjsa
+[16Jan2025 20:56:30.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16Jan2025 20:56:35.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: You logged in from another location
+[16Jan2025 20:56:35.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[16Jan2025 20:56:35.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:49861] logged in with entity id 153815 at (-1279.4854874204188, 48.0, 71.87708226872272)
+[16Jan2025 20:56:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
