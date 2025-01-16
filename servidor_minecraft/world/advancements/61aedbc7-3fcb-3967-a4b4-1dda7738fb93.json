@@ -1158,6 +1158,7 @@
       "melon_slice": "2024-10-24 20:32:06 +0000",
       "cooked_chicken": "2024-10-23 03:15:42 +0000",
       "enchanted_golden_apple": "2024-10-26 03:19:13 +0000",
+      "mushroom_stew": "2025-01-14 00:38:58 +0000",
       "carrot": "2024-10-26 03:30:04 +0000"
     },
     "done": false
@@ -2689,12 +2690,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-10-25 18:36:07 +0000",
+      "minecraft:ghast": "2025-01-14 00:45:55 +0000",
       "minecraft:magma_cube": "2024-11-15 02:32:07 +0000",
       "minecraft:spider": "2024-10-23 04:06:51 +0000",
       "minecraft:creeper": "2024-11-04 04:11:08 +0000",
       "minecraft:witch": "2024-10-25 18:43:00 +0000",
       "minecraft:wither_skeleton": "2024-11-22 20:24:14 +0000",
       "minecraft:cave_spider": "2024-10-25 18:26:40 +0000",
+      "minecraft:piglin": "2025-01-14 01:03:04 +0000",
       "minecraft:stray": "2024-11-22 20:19:18 +0000",
       "minecraft:zombie": "2024-10-24 20:47:00 +0000",
       "minecraft:drowned": "2024-11-06 04:17:55 +0000",
@@ -6332,6 +6335,84 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-01-13 23:24:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-14 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-14 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:fetchmetheirsouls": {
+    "criteria": {
+      "fetchmetheirsouls": "2025-01-14 00:56:10 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-14 00:57:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-14 01:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-14 01:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:56 +0000"
     },
     "done": true
   },

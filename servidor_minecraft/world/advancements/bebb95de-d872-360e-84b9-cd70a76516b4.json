@@ -1132,7 +1132,9 @@
     "criteria": {
       "minecraft:pillager": "2024-11-06 04:32:43 +0000",
       "minecraft:skeleton": "2024-10-23 03:12:50 +0000",
+      "minecraft:magma_cube": "2025-01-14 00:58:21 +0000",
       "minecraft:spider": "2024-10-27 14:59:03 +0000",
+      "minecraft:piglin_brute": "2025-01-14 01:02:02 +0000",
       "minecraft:creeper": "2024-10-31 00:05:28 +0000",
       "minecraft:phantom": "2024-11-29 20:42:48 +0000",
       "minecraft:wither_skeleton": "2024-11-25 03:16:53 +0000",
@@ -1141,7 +1143,8 @@
       "minecraft:enderman": "2024-11-12 01:00:52 +0000",
       "minecraft:vex": "2024-11-04 03:01:25 +0000",
       "minecraft:zombie": "2024-10-23 03:15:10 +0000",
-      "minecraft:drowned": "2024-11-06 05:00:46 +0000"
+      "minecraft:drowned": "2024-11-06 05:00:46 +0000",
+      "minecraft:zombie_villager": "2025-01-14 00:09:21 +0000"
     },
     "done": false
   },
@@ -5918,6 +5921,120 @@
       "squireofthe_dark_lord_6": "2024-12-01 20:57:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-14 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-01-14 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-01-14 00:52:05 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:fetchmetheirsouls": {
+    "criteria": {
+      "fetchmetheirsouls": "2025-01-14 00:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-14 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-14 01:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-01-14 01:06:22 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
