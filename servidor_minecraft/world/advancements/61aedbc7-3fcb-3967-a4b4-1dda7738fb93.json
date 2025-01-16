@@ -2689,6 +2689,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-16 21:11:56 +0000",
       "minecraft:skeleton": "2024-10-25 18:36:07 +0000",
       "minecraft:ghast": "2025-01-14 00:45:55 +0000",
       "minecraft:magma_cube": "2024-11-15 02:32:07 +0000",
@@ -6513,12 +6514,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-01-16 20:25:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-16 20:09:04 +0000"
@@ -6528,6 +6523,18 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-01-16 20:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-16 20:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-16 21:12:10 +0000"
     },
     "done": true
   },
