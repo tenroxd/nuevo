@@ -128,3 +128,5 @@
 [17Jan2025 03:32:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [17Jan2025 03:32:56.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [17Jan2025 03:33:02.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> OLI
+[17Jan2025 03:37:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en ds?
+[17Jan2025 03:41:58.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
