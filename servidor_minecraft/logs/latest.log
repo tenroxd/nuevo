@@ -124,3 +124,7 @@
 [17Jan2025 03:16:25.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
 [17Jan2025 03:20:17.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:59633] logged in with entity id 135466 at (-1467.7718576208106, 103.0, 153.24477533001493)
 [17Jan2025 03:20:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[17Jan2025 03:32:53.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:32985] logged in with entity id 137687 at (-1322.0933253472945, 39.0, 119.74050547014976)
+[17Jan2025 03:32:54.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[17Jan2025 03:32:56.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Jan2025 03:33:02.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> OLI
