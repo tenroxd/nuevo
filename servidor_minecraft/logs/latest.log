@@ -116,3 +116,4 @@
 [17Jan2025 01:58:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Sporeling
 [17Jan2025 01:58:50.280] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [17Jan2025 02:07:45.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Wingin' It]
+[17Jan2025 02:46:26.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
