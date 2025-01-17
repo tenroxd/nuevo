@@ -81,3 +81,33 @@
 [17Jan2025 01:36:13.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [17Jan2025 01:39:31.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:35101] logged in with entity id 1879 at (-1515.0358445218583, 70.41999998688698, 369.54221798446764)
 [17Jan2025 01:39:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[17Jan2025 01:43:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Toad
+[17Jan2025 01:43:58.821] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[17Jan2025 01:44:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> asjkasjjaskkjaskjjsa
+[17Jan2025 01:45:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> shaaa
+[17Jan2025 01:45:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que wa
+[17Jan2025 01:45:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> me fui afk
+[17Jan2025 01:45:50.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay volao? XD
+[17Jan2025 01:46:13.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ojala
+[17Jan2025 01:46:17.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> se me re bugeo todo
+[17Jan2025 01:46:25.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> soy yo o el sv anda lento?
+[17Jan2025 01:46:34.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> algo paso
+[17Jan2025 01:46:39.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> es el sv entonces
+[17Jan2025 01:46:41.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza was kicked for floating too long!
+[17Jan2025 01:46:41.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[17Jan2025 01:46:41.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[17Jan2025 01:46:42.051] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 01:46:58.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:34151] logged in with entity id 4833 at (-1464.6328524228313, 68.40221902522212, 199.21367419530048)
+[17Jan2025 01:46:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[17Jan2025 01:47:13.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> oe pyaaa po
+[17Jan2025 01:47:20.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que wa
+[17Jan2025 01:47:26.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> deja volar
+[17Jan2025 01:47:35.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> qlo no me hiciste acuerdo kjsakjsakjaskjkj
+[17Jan2025 01:48:59.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hay dragones ctmreee
+[17Jan2025 01:49:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sepo
+[17Jan2025 01:49:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> unos verdes
+[17Jan2025 01:49:58.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17Jan2025 01:51:23.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[17Jan2025 01:51:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[17Jan2025 01:51:25.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[17Jan2025 01:51:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
