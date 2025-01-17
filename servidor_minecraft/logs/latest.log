@@ -111,3 +111,8 @@
 [17Jan2025 01:51:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
 [17Jan2025 01:51:25.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [17Jan2025 01:51:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[17Jan2025 01:58:43.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:49793] logged in with entity id 7323 at (-1759.2375342335934, 72.0, 624.0449886270817)
+[17Jan2025 01:58:43.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[17Jan2025 01:58:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Sporeling
+[17Jan2025 01:58:50.280] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[17Jan2025 02:07:45.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Wingin' It]
