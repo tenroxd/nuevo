@@ -6544,5 +6544,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/cobblestone_golem": {
+    "criteria": {
+      "kill": "2025-01-17 03:04:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
