@@ -1,109 +1,83 @@
-[16Jan2025 21:00:07.147] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Jan2025 21:00:07.152] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[16Jan2025 21:00:10.287] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Jan2025 21:00:10.297] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[16Jan2025 21:00:10.299] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
-[16Jan2025 21:00:10.313] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[16Jan2025 21:00:10.315] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[16Jan2025 21:00:10.422] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubox/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Jan2025 21:00:10.431] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[16Jan2025 21:00:10.907] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jan2025 21:00:10.909] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jan2025 21:00:10.912] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jan2025 21:00:10.914] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Jan2025 21:00:11.249] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[16Jan2025 21:00:12.057] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[16Jan2025 21:00:12.064] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[16Jan2025 21:00:12.799] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[16Jan2025 21:00:13.814] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Jan2025 21:00:13.874] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Jan2025 21:00:23.051] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[16Jan2025 21:00:24.551] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[16Jan2025 21:00:25.031] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[16Jan2025 21:00:25.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[16Jan2025 21:00:25.958] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[16Jan2025 21:00:25.962] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Jan2025 21:00:25.962] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Jan2025 21:00:28.673] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[16Jan2025 21:00:29.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[16Jan2025 21:00:29.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
-[16Jan2025 21:00:29.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[16Jan2025 21:00:29.767] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[16Jan2025 21:00:29.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
-[16Jan2025 21:00:29.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[16Jan2025 21:00:30.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[16Jan2025 21:00:30.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Jan2025 21:00:30.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[16Jan2025 21:00:32.487] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Jan2025 21:00:34.478] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[16Jan2025 21:00:34.479] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[16Jan2025 21:00:36.911] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[16Jan2025 21:00:37.050] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[17Jan2025 01:33:59.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Jan2025 01:33:59.506] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[17Jan2025 01:34:00.284] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Jan2025 01:34:00.295] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[17Jan2025 01:34:00.297] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
+[17Jan2025 01:34:00.303] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[17Jan2025 01:34:00.304] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[17Jan2025 01:34:00.364] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubox/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17Jan2025 01:34:00.373] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[17Jan2025 01:34:00.708] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 01:34:00.710] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 01:34:00.711] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 01:34:00.712] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Jan2025 01:34:00.862] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[17Jan2025 01:34:01.362] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[17Jan2025 01:34:01.373] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[17Jan2025 01:34:01.869] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[17Jan2025 01:34:02.741] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Jan2025 01:34:02.774] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Jan2025 01:34:09.218] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[17Jan2025 01:34:10.406] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[17Jan2025 01:34:10.763] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17Jan2025 01:34:11.400] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Jan2025 01:34:11.405] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Jan2025 01:34:11.416] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[17Jan2025 01:34:11.425] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[17Jan2025 01:34:13.503] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[17Jan2025 01:34:13.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17Jan2025 01:34:13.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
+[17Jan2025 01:34:13.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[17Jan2025 01:34:14.038] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[17Jan2025 01:34:14.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[17Jan2025 01:34:14.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[17Jan2025 01:34:14.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[17Jan2025 01:34:14.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Jan2025 01:34:14.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[17Jan2025 01:34:15.445] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Jan2025 01:34:16.414] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[17Jan2025 01:34:16.414] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[17Jan2025 01:34:18.373] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[17Jan2025 01:34:18.431] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[16Jan2025 21:00:38.130] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
-[16Jan2025 21:00:38.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[16Jan2025 21:00:38.456] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
-[16Jan2025 21:00:38.459] [main/INFO] [Dungeon Crawl/]: Loading data...
-[16Jan2025 21:00:38.840] [main/INFO] [Dungeon Crawl/]: Done.
-[16Jan2025 21:00:38.873] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
-[16Jan2025 21:00:40.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Jan2025 21:00:40.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Jan2025 21:00:40.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Jan2025 21:00:40.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Jan2025 21:00:40.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Jan2025 21:00:40.533] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Jan2025 21:00:40.673] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Jan2025 21:00:40.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Jan2025 21:00:40.674] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Jan2025 21:00:40.675] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Jan2025 21:00:40.858] [Server thread/INFO] [Framework/]: Loading server configs...
-[16Jan2025 21:00:41.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Jan2025 21:00:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Jan2025 21:00:46.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:46.538] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:46.539] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:46.539] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:47.051] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:47.925] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:48.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:48.563] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:49.038] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Jan2025 21:00:49.541] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[16Jan2025 21:00:50.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[16Jan2025 21:00:50.529] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[16Jan2025 21:00:51.029] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[16Jan2025 21:00:51.529] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[16Jan2025 21:00:51.832] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6804 ms
-[16Jan2025 21:00:51.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.131s)! For help, type "help"
-[16Jan2025 21:00:51.877] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Jan2025 21:01:14.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:52621] logged in with entity id 619 at (-1465.4458091148788, 99.0, 154.1046646040104)
-[16Jan2025 21:01:14.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[16Jan2025 21:01:17.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[16Jan2025 21:01:47.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:43333] logged in with entity id 1227 at (-1279.4854874204188, 48.0, 71.87708226872272)
-[16Jan2025 21:01:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
-[16Jan2025 21:07:14.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hay visto caballos??
-[16Jan2025 21:07:29.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> a la chucha del mundo
-[16Jan2025 21:07:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oe cuando abra denuevo el sv hazme acuerdo cambiar las weas de las tumbas
-[16Jan2025 21:07:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya
-[16Jan2025 21:08:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y la wea de volar
-[16Jan2025 21:08:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
-[16Jan2025 21:10:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> encontre una asa de aldeanos malos
-[16Jan2025 21:11:07.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kie
-[16Jan2025 21:11:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fortales}za
-[16Jan2025 21:12:10.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Voluntary Exile]
-[16Jan2025 21:12:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que gay
-[16Jan2025 21:12:29.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tengo mas calor que la mierda
-[16Jan2025 21:12:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> te dije q fueramos por un melvin maricon
-[16Jan2025 21:12:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ando medio resfriao
-[16Jan2025 21:13:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> andai medio maraco
-[16Jan2025 21:14:08.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy a pegarme un baño y volvere
-[16Jan2025 21:14:17.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> encontre unos bloques amarillos que no puedo ssacar
-[16Jan2025 21:14:17.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
-[16Jan2025 21:14:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
-[16Jan2025 21:15:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza fell from a high place
-[16Jan2025 21:15:36.001] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
-[16Jan2025 21:16:46.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
-[16Jan2025 21:16:46.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
-[16Jan2025 21:16:46.659] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 01:34:19.291] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
+[17Jan2025 01:34:19.338] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[17Jan2025 01:34:19.468] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
+[17Jan2025 01:34:19.471] [main/INFO] [Dungeon Crawl/]: Loading data...
+[17Jan2025 01:34:19.759] [main/INFO] [Dungeon Crawl/]: Done.
+[17Jan2025 01:34:19.789] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
+[17Jan2025 01:34:20.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Jan2025 01:34:20.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Jan2025 01:34:20.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Jan2025 01:34:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Jan2025 01:34:20.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Jan2025 01:34:20.943] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Jan2025 01:34:21.031] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Jan2025 01:34:21.031] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Jan2025 01:34:21.032] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Jan2025 01:34:21.032] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Jan2025 01:34:21.146] [Server thread/INFO] [Framework/]: Loading server configs...
+[17Jan2025 01:34:21.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Jan2025 01:34:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Jan2025 01:34:28.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.627] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.636] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.652] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.662] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.668] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.681] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:28.959] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Jan2025 01:34:29.459] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[17Jan2025 01:34:29.831] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5373 ms
+[17Jan2025 01:34:29.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.785s)! For help, type "help"
+[17Jan2025 01:34:29.867] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Jan2025 01:36:08.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.112.53.13:37959] logged in with entity id 619 at (-1290.8332045829243, 61.0, 128.4517183531278)
+[17Jan2025 01:36:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[17Jan2025 01:36:11.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[17Jan2025 01:36:13.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[17Jan2025 01:39:31.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:35101] logged in with entity id 1879 at (-1515.0358445218583, 70.41999998688698, 369.54221798446764)
+[17Jan2025 01:39:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
