@@ -6174,5 +6174,29 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2025-01-18 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:fluffy": {
+    "criteria": {
+      "fluffy": "2025-01-18 04:14:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/gravemite": {
+    "criteria": {
+      "kill": "2025-01-18 04:01:12 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/anubis": {
+    "criteria": {
+      "kill": "2025-01-18 04:00:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

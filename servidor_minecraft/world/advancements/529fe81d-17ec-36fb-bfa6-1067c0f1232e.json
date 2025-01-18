@@ -2445,6 +2445,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-18 04:07:05 +0000",
       "minecraft:skeleton": "2024-11-21 04:48:17 +0000",
       "minecraft:magma_cube": "2025-01-14 00:47:59 +0000",
       "minecraft:spider": "2024-11-22 21:24:11 +0000",
@@ -4559,6 +4560,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
+    "criteria": {
+      "one_explosion_is_good_two_is_better_0": "2025-01-18 03:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-18 03:52:02 +0000"
@@ -4595,15 +4602,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
-    "criteria": {
-      "one_explosion_is_good_two_is_better_0": "2025-01-18 03:24:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-18 03:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-18 04:15:38 +0000"
     },
     "done": true
   },

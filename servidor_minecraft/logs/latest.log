@@ -147,3 +147,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jan2025 03:50:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> onde tan?
 [18Jan2025 03:50:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> se me escucha?
 [18Jan2025 03:51:12.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! -8.683816768307452,0.0,-5.074620612750678
+[18Jan2025 04:00:19.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[18Jan2025 04:10:32.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was blown up by Pillager
+[18Jan2025 04:10:32.381] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[18Jan2025 04:11:47.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[18Jan2025 04:12:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[18Jan2025 04:13:33.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to Jaimomo]
+[18Jan2025 04:14:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[18Jan2025 04:14:23.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Fluffy!]
+[18Jan2025 04:15:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Voluntary Exile]
+[18Jan2025 04:15:45.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[18Jan2025 04:19:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was doomed to fall by wolfire
+[18Jan2025 04:19:12.114] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[18Jan2025 04:19:18.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
+[18Jan2025 04:20:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was blown up by Creeper
+[18Jan2025 04:20:11.716] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[18Jan2025 04:20:52.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to wolfire]
+[18Jan2025 04:21:20.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo lost connection: Disconnected
+[18Jan2025 04:21:20.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo left the game
+[18Jan2025 04:21:42.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimomo[/127.21.243.76:35091] logged in with entity id 34496 at (-1682.5405146623611, 60.0, 599.3000000119209)
+[18Jan2025 04:21:42.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo joined the game
+[18Jan2025 04:21:54.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to ElLogonza]
+[18Jan2025 04:21:59.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[18Jan2025 04:22:54.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was burnt to a crisp whilst fighting Banshee
+[18Jan2025 04:22:54.757] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[18Jan2025 04:23:11.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to wolfire]
+[18Jan2025 04:23:21.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Minotaurus
+[18Jan2025 04:23:22.144] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[18Jan2025 04:23:51.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Minotaurus
+[18Jan2025 04:23:51.961] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[18Jan2025 04:24:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to Jaimomo]
+[18Jan2025 04:26:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to wolfire]
+[18Jan2025 04:27:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Hidden in the Skies]
