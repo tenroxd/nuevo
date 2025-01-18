@@ -139,3 +139,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jan2025 03:46:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ta wena
 [18Jan2025 03:46:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tengo la misma
 [18Jan2025 03:47:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> vamos
+[18Jan2025 03:48:43.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! -1.731118614191928,-8.766367993957523,-4.575077171615206
+[18Jan2025 03:49:05.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Timed out
+[18Jan2025 03:49:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[18Jan2025 03:49:35.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:51881] logged in with entity id 20518 at (-1287.300000011921, 47.7531999805212, 86.30000001192093)
+[18Jan2025 03:49:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[18Jan2025 03:50:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> onde tan?
+[18Jan2025 03:50:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> se me escucha?
+[18Jan2025 03:51:12.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza moved too quickly! -8.683816768307452,0.0,-5.074620612750678
