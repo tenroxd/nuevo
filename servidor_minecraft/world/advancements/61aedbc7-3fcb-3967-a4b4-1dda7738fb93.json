@@ -6551,15 +6551,51 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2025-01-18 04:17:36 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/dullahan": {
     "criteria": {
       "kill": "2025-01-18 04:23:07 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:main/banshee": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "kill": "2025-01-18 04:17:36 +0000"
+      "has_smithing_trim_template": "2025-01-18 04:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-18 04:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:50 +0000"
     },
     "done": true
   },

@@ -6180,6 +6180,12 @@
     },
     "done": true
   },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2025-01-18 04:43:01 +0000"
+    },
+    "done": true
+  },
   "ancient_elements:fluffy": {
     "criteria": {
       "fluffy": "2025-01-18 04:14:23 +0000"
@@ -6189,6 +6195,36 @@
   "grimoireofgaia:main/gravemite": {
     "criteria": {
       "kill": "2025-01-18 04:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:aetherium_advanchement": {
+    "criteria": {
+      "aetherium_advanchement": "2025-01-18 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-01-18 04:48:48 +0000"
     },
     "done": true
   },

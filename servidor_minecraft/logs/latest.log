@@ -179,3 +179,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jan2025 04:24:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to Jaimomo]
 [18Jan2025 04:26:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to wolfire]
 [18Jan2025 04:27:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Hidden in the Skies]
+[18Jan2025 04:29:30.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo was doomed to fall by Aetherial Glaze
+[18Jan2025 04:29:30.967] [Server thread/INFO] [tombstone/]: The player Jaimomo has successfully been saved
+[18Jan2025 04:29:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to ElLogonza]
+[18Jan2025 04:33:12.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo has made the advancement [Mine? Mine? Mine?]
+[18Jan2025 04:33:12.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo moved wrongly!
+[18Jan2025 04:33:32.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[18Jan2025 04:33:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[18Jan2025 04:35:37.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Jan2025 04:36:42.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:37783] logged in with entity id 44453 at (-1500.074999988079, 70.0, 1039.074999988079)
+[18Jan2025 04:36:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[18Jan2025 04:40:19.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported Jaimomo to wolfire]
+[18Jan2025 04:40:26.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
+[18Jan2025 04:41:44.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimomo lost connection: Timed out
+[18Jan2025 04:41:44.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimomo left the game
+[18Jan2025 04:43:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has reached the goal [Abyssal Conqueror]
+[18Jan2025 04:43:18.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48662, l='ServerLevel[world]', x=-1419.64, y=79.92, z=1984.60] died, message: 'Villager was shot by Pillager'
+[18Jan2025 04:44:02.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47195, l='ServerLevel[world]', x=-1419.77, y=78.94, z=2001.51] died, message: 'Villager was shot by Pillager'
+[18Jan2025 04:44:28.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48738, l='ServerLevel[world]', x=-1419.90, y=79.00, z=2012.30] died, message: 'Villager was shot by Pillager'
+[18Jan2025 04:45:32.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> gg jaime
+[18Jan2025 04:47:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[18Jan2025 04:51:07.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[18Jan2025 04:51:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[18Jan2025 04:51:08.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[18Jan2025 04:51:08.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
