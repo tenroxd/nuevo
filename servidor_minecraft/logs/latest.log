@@ -130,3 +130,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jan2025 03:36:55.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was slain by Iron Golem
 [18Jan2025 03:36:55.773] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
 [18Jan2025 03:36:57.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Jan2025 03:41:51.796] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16261, l='ServerLevel[world]', x=-1678.50, y=54.00, z=186.50]
+[18Jan2025 03:43:03.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Jan2025 03:44:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dime
+[18Jan2025 03:44:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> busca
+[18Jan2025 03:44:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> si encontrai le day
+[18Jan2025 03:45:57.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kieee
+[18Jan2025 03:46:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ta wena
+[18Jan2025 03:46:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tengo la misma
+[18Jan2025 03:47:08.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> vamos
