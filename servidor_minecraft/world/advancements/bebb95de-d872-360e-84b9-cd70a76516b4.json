@@ -6174,15 +6174,15 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/kobold": {
+  "grimoireofgaia:main/anubis": {
     "criteria": {
-      "kill": "2025-01-18 04:22:54 +0000"
+      "kill": "2025-01-18 04:00:25 +0000"
     },
     "done": true
   },
-  "ancient_elements:abyssal_conqueror": {
+  "grimoireofgaia:main/gravemite": {
     "criteria": {
-      "abyssal_conqueror": "2025-01-18 04:43:01 +0000"
+      "kill": "2025-01-18 04:01:12 +0000"
     },
     "done": true
   },
@@ -6192,9 +6192,21 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/gravemite": {
+  "grimoireofgaia:main/kobold": {
     "criteria": {
-      "kill": "2025-01-18 04:01:12 +0000"
+      "kill": "2025-01-18 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:aetherium_advanchement": {
+    "criteria": {
+      "aetherium_advanchement": "2025-01-18 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2025-01-18 04:43:01 +0000"
     },
     "done": true
   },
@@ -6210,12 +6222,6 @@
     },
     "done": true
   },
-  "ancient_elements:aetherium_advanchement": {
-    "criteria": {
-      "aetherium_advanchement": "2025-01-18 04:27:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-01-18 04:48:48 +0000"
@@ -6228,9 +6234,39 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/anubis": {
+  "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
-      "kill": "2025-01-18 04:00:25 +0000"
+      "has_bricks": "2025-01-19 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-19 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-19 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-19 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-19 20:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-19 20:10:56 +0000"
     },
     "done": true
   },
