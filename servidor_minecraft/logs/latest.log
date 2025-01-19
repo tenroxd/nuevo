@@ -121,3 +121,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Jan2025 20:12:34.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Grave Ravager]
 [19Jan2025 20:13:04.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/928, l='ServerLevel[world]', x=-1429.17, y=79.02, z=1995.16] died, message: 'Villager was shot by Pillager'
 [19Jan2025 20:14:06.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/879, l='ServerLevel[world]', x=-1422.90, y=78.94, z=2000.81] died, message: 'Villager was slain by Ravager'
+[19Jan2025 20:15:45.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> seguis dungeando?
+[19Jan2025 20:16:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> toy tratando de ir a la casa xD
+[19Jan2025 20:16:21.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/927, l='ServerLevel[world]', x=-1414.85, y=81.00, z=1977.70] died, message: 'Villager was slain by Ravager'
+[19Jan2025 20:16:26.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> podria ir a dejar las coas y buscar el tesoro
+[19Jan2025 20:16:44.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en tu casa?
+[19Jan2025 20:17:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has completed the challenge [Hero of the Village]
+[19Jan2025 20:17:23.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en tu casa?
+[19Jan2025 20:18:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> en la dungoen
+[19Jan2025 20:18:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aun no salgo aksjdhak
+[19Jan2025 20:18:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> skjakjsakjsakjsa
+[19Jan2025 20:18:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> me sarpe la mea colacion mongoliana del negrito fay chi wn
+[19Jan2025 20:18:27.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> yo toy afuera
+[19Jan2025 20:18:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> como c sale?
+[19Jan2025 20:18:52.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> nose
+[19Jan2025 20:18:58.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tuve la cuea de encontrar la escalera
+[19Jan2025 20:19:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> encontre antorchas debe ser
+[19Jan2025 20:19:19.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> sali
+[19Jan2025 20:19:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ondas?
+[19Jan2025 20:19:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> yo toy en la aldea de mas alla de la dungeon
+[19Jan2025 20:19:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> pa donde es?
+[19Jan2025 20:19:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> no veo la wea en el cielo
+[19Jan2025 20:20:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> la veo
+[19Jan2025 20:20:13.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voi
+[19Jan2025 20:21:02.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> vuelvo en 30
+[19Jan2025 20:21:05.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[19Jan2025 20:21:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[19Jan2025 20:21:06.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ta
+[19Jan2025 20:22:01.133] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[19Jan2025 20:22:22.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
