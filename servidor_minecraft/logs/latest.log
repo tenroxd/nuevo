@@ -98,3 +98,8 @@
 [20Jan2025 22:14:48.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by wolfire
 [20Jan2025 22:14:48.475] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
 [20Jan2025 22:14:59.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[20Jan2025 22:15:48.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
+[20Jan2025 22:16:25.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[20Jan2025 22:16:25.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[20Jan2025 22:20:42.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[20Jan2025 22:20:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
