@@ -2319,3 +2319,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Jan2025 21:45:05.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jan2025 21:50:05.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jan2025 21:50:05.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 21:55:05.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 21:55:05.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 21:55:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was shot by ElLogonza
+[20Jan2025 21:55:17.232] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElLogonza was created at position [x:-817, y:93, z:1053, dim:minecraft:overworld]
+[20Jan2025 21:55:17.241] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[20Jan2025 21:56:11.964] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=140}
+[20Jan2025 21:56:11.964] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1299, y=56, z=134}
+[20Jan2025 21:56:11.964] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=141}
+[20Jan2025 22:00:05.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 22:00:05.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
