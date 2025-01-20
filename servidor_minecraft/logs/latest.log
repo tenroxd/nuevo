@@ -92,3 +92,9 @@
 [20Jan2025 21:28:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has reached the goal [Dark Creator]
 [20Jan2025 21:55:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was shot by ElLogonza
 [20Jan2025 21:55:17.241] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[20Jan2025 22:12:39.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.64.180.255:56449] logged in with entity id 15462 at (-1417.5315180677903, 82.0, 1952.3742760092848)
+[20Jan2025 22:12:39.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[20Jan2025 22:13:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[20Jan2025 22:14:48.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by wolfire
+[20Jan2025 22:14:48.475] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[20Jan2025 22:14:59.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
