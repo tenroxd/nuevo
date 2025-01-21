@@ -2321,3 +2321,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jan2025 03:34:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toma
 [21Jan2025 03:34:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que wa
 [21Jan2025 03:34:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> las q te debia
+[21Jan2025 03:36:28.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:36:28.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:37:00.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was slain by Weird Orc Savage
+[21Jan2025 03:37:01.203] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1299, y:65, z:162, dim:minecraft:overworld]
+[21Jan2025 03:37:01.221] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[21Jan2025 03:37:04.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> kjahsdkjahsdka
+[21Jan2025 03:38:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
+[21Jan2025 03:41:28.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:41:28.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:43:06.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[21Jan2025 03:44:38.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> noh vimos
+[21Jan2025 03:44:42.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[21Jan2025 03:44:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[21Jan2025 03:44:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> lero
