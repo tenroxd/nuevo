@@ -2270,3 +2270,54 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jan2025 03:01:28.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 03:01:28.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 03:05:14.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['morty'/1015, l='ServerLevel[world]', x=-1288.27, y=45.39, z=176.23] died: morty was slain by Iron Golem
+[21Jan2025 03:06:28.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:06:28.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:10:15.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:11:12.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tai mudo kl
+[21Jan2025 03:11:28.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:11:28.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:11:32.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:16:28.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:16:28.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:19:28.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> toy luchando con el caeza de calabaza
+[21Jan2025 03:19:34.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el q
+[21Jan2025 03:19:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aaa
+[21Jan2025 03:19:38.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fe
+[21Jan2025 03:19:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> donde estas?
+[21Jan2025 03:20:56.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:21:28.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:21:28.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:21:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> se ta quemando el bosque
+[21Jan2025 03:22:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> hay una wna pegandole skjaakjskjasj}
+[21Jan2025 03:22:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> kjahdkjas
+[21Jan2025 03:23:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> qn??
+[21Jan2025 03:23:42.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:23:42.901] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:24:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was slain by Zombie
+[21Jan2025 03:24:55.947] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1565, y:72, z:448, dim:minecraft:overworld]
+[21Jan2025 03:24:55.974] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[21Jan2025 03:25:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> GG
+[21Jan2025 03:25:19.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> DWMIMIR
+[21Jan2025 03:25:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimir
+[21Jan2025 03:25:30.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[21Jan2025 03:26:28.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:26:28.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:26:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me dio la espada
+[21Jan2025 03:26:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y la varita
+[21Jan2025 03:26:46.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> te la compro
+[21Jan2025 03:26:53.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que ofreces?
+[21Jan2025 03:26:59.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> que quieres?
+[21Jan2025 03:28:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[21Jan2025 03:28:44.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mira
+[21Jan2025 03:29:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sakjkjaskjkasjkjsakjas
+[21Jan2025 03:31:28.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 03:31:28.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 03:32:42.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> metete aldiscor po
+[21Jan2025 03:33:29.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni tijeras?
+[21Jan2025 03:33:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
+[21Jan2025 03:33:49.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> engancha una con tp
+[21Jan2025 03:33:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[21Jan2025 03:34:12.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toms
+[21Jan2025 03:34:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toma
+[21Jan2025 03:34:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que wa
+[21Jan2025 03:34:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> las q te debia
