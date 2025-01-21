@@ -115,3 +115,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jan2025 02:47:23.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toi en el ds habla pa ver si se escucha en tuich
 [21Jan2025 02:47:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ya calmao ire a buscar mis audifonos
 [21Jan2025 02:47:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya
+[21Jan2025 02:59:00.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[21Jan2025 03:05:14.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['morty'/1015, l='ServerLevel[world]', x=-1288.27, y=45.39, z=176.23] died: morty was slain by Iron Golem
