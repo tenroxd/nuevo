@@ -164,3 +164,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [21Jan2025 03:44:42.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [21Jan2025 03:44:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
 [21Jan2025 03:44:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> lero
+[21Jan2025 04:03:00.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[21Jan2025 04:03:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[21Jan2025 04:03:00.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jan2025 04:03:42.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:45119] logged in with entity id 36523 at (-1493.9029733313691, 63.0, 119.14080140075251)
+[21Jan2025 04:03:42.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
