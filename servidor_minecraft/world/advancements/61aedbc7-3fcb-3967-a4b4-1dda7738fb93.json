@@ -6605,17 +6605,17 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2025-01-20 21:29:31 +0000"
-    },
-    "done": false
-  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-01-20 21:28:57 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-01-20 21:29:31 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
