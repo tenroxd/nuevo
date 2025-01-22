@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-10-26 03:25:39 +0000",
+      "minecraft:deep_ocean": "2025-01-22 03:11:28 +0000",
       "minecraft:sunflower_plains": "2024-10-26 03:16:05 +0000",
       "minecraft:birch_forest": "2024-10-23 03:17:15 +0000",
       "minecraft:bamboo_jungle": "2024-10-27 16:10:46 +0000",
@@ -6740,6 +6741,18 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2025-01-21 02:57:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-01-22 03:09:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-01-22 03:09:37 +0000"
     },
     "done": true
   },
