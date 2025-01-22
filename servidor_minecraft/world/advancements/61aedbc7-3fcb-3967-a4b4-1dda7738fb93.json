@@ -6744,15 +6744,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-01-22 03:09:37 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag_skull": {
     "criteria": {
       "skull": "2025-01-22 03:09:42 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skelewag": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "killed_by": "2025-01-22 03:09:37 +0000"
+      "has_nautilus_core": "2025-01-22 03:14:42 +0000"
     },
     "done": true
   },
