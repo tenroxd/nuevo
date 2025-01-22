@@ -315,3 +315,28 @@
 [22Jan2025 04:18:45.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wnn me aparecio el que te oscurece todo en la dungeon cerca de rtuc
 [22Jan2025 04:18:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> casa
 [22Jan2025 04:19:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> apaña
+[22Jan2025 04:24:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tengo coral muerto tesirve?
+[22Jan2025 04:24:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> si me quitaste la wea de abajo po mierda
+[22Jan2025 04:24:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> deodne qlo
+[22Jan2025 04:25:26.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mate cualquier orco
+[22Jan2025 04:25:53.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no los traigas pa aca
+[22Jan2025 04:28:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya wn me voy a la shet
+[22Jan2025 04:28:39.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ya qlo yo igual
+[22Jan2025 04:28:43.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> noh vimos
+[22Jan2025 04:28:44.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[22Jan2025 04:28:44.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[22Jan2025 04:29:28.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[22Jan2025 04:29:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[22Jan2025 04:29:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jan2025 04:29:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 04:29:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 04:29:44.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 04:29:45.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jan2025 04:29:45.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jan2025 04:29:45.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jan2025 04:29:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 04:29:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 04:29:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 04:29:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jan2025 04:29:45.313] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jan2025 04:29:45.314] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
