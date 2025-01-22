@@ -2260,3 +2260,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 02:21:23.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> si?
 [22Jan2025 02:21:25.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
 [22Jan2025 02:21:29.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> yo igual la tengo pero pega poco
+[22Jan2025 02:21:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> acabo de ver y la mia tiene filo 4 y reparacion
+[22Jan2025 02:22:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> sosi nose como arreglarla
+[22Jan2025 02:22:07.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:22:07.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:22:30.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> hay que invocar un wn y matarlo
+[22Jan2025 02:22:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> parece
+[22Jan2025 02:23:26.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> tay en tu casa?
+[22Jan2025 02:23:34.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> cerca de la del jaime
+[22Jan2025 02:23:49.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[22Jan2025 02:24:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> finca qla es el medio laverinto
+[22Jan2025 02:24:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> kajdhs
+[22Jan2025 02:24:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aonde
+[22Jan2025 02:27:07.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 02:27:07.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 02:28:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oe
+[22Jan2025 02:28:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sacame de una duda
+[22Jan2025 02:28:53.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[22Jan2025 02:28:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[22Jan2025 02:29:03.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
