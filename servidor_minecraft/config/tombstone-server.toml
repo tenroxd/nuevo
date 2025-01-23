@@ -8,7 +8,7 @@
 #Miscellaneous options
 [general]
 	#Always Keep xp on death [false/true|default:false]
-	always_keep_xp_on_death = false
+	always_keep_xp_on_death = true
 	#The duration of the Ghostly Shape effect in seconds [0..MAX|default:120]
 	#Range: > 0
 	ghostly_shape_duration = 120
@@ -114,7 +114,7 @@
 #For settings related to magic items
 [magic_item]
 	#Always enchant Grave's Key [false/true|default:false]
-	always_enchant_grave_key = false
+	always_enchant_grave_key = true
 	#Prevents to craft Enchanted Grave Key [false/true|default:false]
 	disable_enchanted_grave_key_recipe = false
 	#Scroll duration [1200..120000|default:12000]

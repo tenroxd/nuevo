@@ -6762,15 +6762,15 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/minotaurus": {
-    "criteria": {
-      "kill": "2025-01-22 04:16:01 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-01-22 03:51:28 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-01-22 04:16:01 +0000"
     },
     "done": true
   },
