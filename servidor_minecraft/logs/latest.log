@@ -79,3 +79,5 @@
 [23Jan2025 03:09:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
 [23Jan2025 03:09:12.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3072ms or 61 ticks behind
 [23Jan2025 03:10:58.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[23Jan2025 03:27:47.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was killed by Cecaelia using magic
+[23Jan2025 03:27:48.316] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
