@@ -81,3 +81,14 @@
 [23Jan2025 03:10:58.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [23Jan2025 03:27:47.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was killed by Cecaelia using magic
 [23Jan2025 03:27:48.316] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[23Jan2025 03:45:54.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:59339] logged in with entity id 9537 at (-1295.2871614863805, 68.9375, 149.97157480191893)
+[23Jan2025 03:45:54.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[23Jan2025 03:46:18.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> shualo
+[23Jan2025 03:46:49.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni rieles?
+[23Jan2025 03:46:57.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> noop
+[23Jan2025 03:47:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tengo un libro que dice una wea que mata las esporas de orco
+[23Jan2025 03:47:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no funca
+[23Jan2025 03:47:48.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aaa
+[23Jan2025 03:47:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> se la puse a un arma y la wea sigue igual
+[23Jan2025 03:47:54.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wnn ta feo afuera de mis tierras
+[23Jan2025 03:48:03.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> con orcos?
