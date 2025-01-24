@@ -6421,5 +6421,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-24 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-24 03:34:55 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/experience_gold": {
+    "criteria": {
+      "has_gold_box": "2025-01-24 05:13:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_hedge": {
+    "criteria": {
+      "has_jungle_leaves": "2025-01-24 05:49:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

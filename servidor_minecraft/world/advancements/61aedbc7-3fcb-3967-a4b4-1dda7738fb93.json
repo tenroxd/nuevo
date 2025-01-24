@@ -6780,5 +6780,17 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/mandragora": {
+    "criteria": {
+      "kill": "2025-01-24 05:32:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-24 04:34:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

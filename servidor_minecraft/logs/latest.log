@@ -1,96 +1,307 @@
-[24Jan2025 02:50:44.570] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Jan2025 02:50:44.574] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[24Jan2025 02:50:47.698] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Jan2025 02:50:47.712] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[24Jan2025 02:50:47.715] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
-[24Jan2025 02:50:47.724] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[24Jan2025 02:50:47.728] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[24Jan2025 02:50:47.898] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubox/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Jan2025 02:50:47.911] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[24Jan2025 02:50:48.443] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 02:50:48.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 02:50:48.446] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 02:50:48.452] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jan2025 02:50:48.755] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[24Jan2025 02:50:49.656] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[24Jan2025 02:50:49.665] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[24Jan2025 02:50:50.314] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[24Jan2025 02:50:51.549] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24Jan2025 02:50:51.663] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Jan2025 02:51:01.268] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[24Jan2025 02:51:02.929] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[24Jan2025 02:51:03.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24Jan2025 02:51:04.323] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[24Jan2025 02:51:04.338] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[24Jan2025 02:51:04.363] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Jan2025 02:51:04.364] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Jan2025 02:51:07.498] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[24Jan2025 02:51:08.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Jan2025 02:51:08.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
-[24Jan2025 02:51:08.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[24Jan2025 02:51:08.929] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[24Jan2025 02:51:09.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
-[24Jan2025 02:51:09.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[24Jan2025 02:51:09.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[24Jan2025 02:51:09.736] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jan2025 02:51:09.943] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
-[24Jan2025 02:51:11.052] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Jan2025 02:51:12.787] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[24Jan2025 02:51:12.787] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[24Jan2025 02:51:14.736] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[24Jan2025 02:51:14.864] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[24Jan2025 03:14:16.718] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jan2025 03:14:16.721] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Jan2025 03:14:17.112] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jan2025 03:14:17.123] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[24Jan2025 03:14:17.125] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
+[24Jan2025 03:14:17.134] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/cubox/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[24Jan2025 03:14:17.136] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[24Jan2025 03:14:17.182] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubox/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jan2025 03:14:17.190] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[24Jan2025 03:14:17.410] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 03:14:17.411] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 03:14:17.412] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 03:14:17.413] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubox/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jan2025 03:14:17.524] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[24Jan2025 03:14:18.040] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[24Jan2025 03:14:18.049] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[24Jan2025 03:14:18.626] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[24Jan2025 03:14:19.255] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jan2025 03:14:19.298] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jan2025 03:14:25.630] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Jan2025 03:14:26.799] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[24Jan2025 03:14:27.286] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Jan2025 03:14:27.949] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Jan2025 03:14:27.949] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Jan2025 03:14:28.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[24Jan2025 03:14:28.028] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[24Jan2025 03:14:30.526] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[24Jan2025 03:14:30.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Jan2025 03:14:30.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
+[24Jan2025 03:14:30.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[24Jan2025 03:14:31.054] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[24Jan2025 03:14:31.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[24Jan2025 03:14:31.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Jan2025 03:14:31.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[24Jan2025 03:14:31.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jan2025 03:14:32.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[24Jan2025 03:14:32.631] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jan2025 03:14:33.697] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[24Jan2025 03:14:33.697] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubox/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[24Jan2025 03:14:35.560] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Jan2025 03:14:35.605] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[24Jan2025 02:51:15.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
-[24Jan2025 02:51:15.760] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[24Jan2025 02:51:15.947] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
-[24Jan2025 02:51:15.950] [main/INFO] [Dungeon Crawl/]: Loading data...
-[24Jan2025 02:51:16.220] [main/INFO] [Dungeon Crawl/]: Done.
-[24Jan2025 02:51:16.245] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
-[24Jan2025 02:51:17.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Jan2025 02:51:17.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jan2025 02:51:17.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jan2025 02:51:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jan2025 02:51:17.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jan2025 02:51:17.849] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jan2025 02:51:17.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jan2025 02:51:17.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jan2025 02:51:17.947] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jan2025 02:51:17.948] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jan2025 02:51:18.123] [Server thread/INFO] [Framework/]: Loading server configs...
-[24Jan2025 02:51:18.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jan2025 02:51:22.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jan2025 02:51:23.570] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:23.620] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:23.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:23.765] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:24.452] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:24.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:25.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:25.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:26.261] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jan2025 02:51:26.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[24Jan2025 02:51:27.259] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[24Jan2025 02:51:27.760] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[24Jan2025 02:51:28.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[24Jan2025 02:51:28.553] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6295 ms
-[24Jan2025 02:51:28.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.590s)! For help, type "help"
-[24Jan2025 02:51:28.651] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jan2025 02:55:07.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:38551] logged in with entity id 618 at (-1318.6531710932425, 54.0, 132.35735329559097)
-[24Jan2025 02:55:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
-[24Jan2025 02:55:10.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2851ms or 57 ticks behind
-[24Jan2025 02:55:54.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:57885] logged in with entity id 1421 at (-1468.2359369177248, 103.0, 155.95996714997162)
-[24Jan2025 02:55:54.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[24Jan2025 02:56:01.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[24Jan2025 02:57:08.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
-[24Jan2025 02:57:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
-[24Jan2025 02:57:14.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:37359] logged in with entity id 2075 at (-1467.2087251810076, 103.0, 153.51065588262358)
-[24Jan2025 02:57:14.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[24Jan2025 02:57:56.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> weon pesca insta
-[24Jan2025 02:58:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy
-[24Jan2025 02:58:05.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
-[24Jan2025 02:58:05.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
-[24Jan2025 02:59:31.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:52213] logged in with entity id 2775 at (-1467.5430487185652, 103.0, 152.956567896433)
-[24Jan2025 02:59:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[24Jan2025 02:59:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> skjajkasjkjsakjsakjkjsakjksja
+[24Jan2025 03:14:36.460] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
+[24Jan2025 03:14:36.488] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[24Jan2025 03:14:36.624] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
+[24Jan2025 03:14:36.627] [main/INFO] [Dungeon Crawl/]: Loading data...
+[24Jan2025 03:14:36.906] [main/INFO] [Dungeon Crawl/]: Done.
+[24Jan2025 03:14:36.939] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
+[24Jan2025 03:14:38.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jan2025 03:14:38.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jan2025 03:14:38.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jan2025 03:14:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jan2025 03:14:38.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jan2025 03:14:38.130] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jan2025 03:14:38.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jan2025 03:14:38.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jan2025 03:14:38.247] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jan2025 03:14:38.247] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jan2025 03:14:38.430] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Jan2025 03:14:38.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jan2025 03:14:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jan2025 03:14:45.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.455] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.456] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.456] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.457] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.458] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:45.669] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jan2025 03:14:46.169] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[24Jan2025 03:14:46.561] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4893 ms
+[24Jan2025 03:14:46.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.293s)! For help, type "help"
+[24Jan2025 03:14:46.594] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jan2025 03:14:50.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:33527] logged in with entity id 620 at (-1290.2139187346884, 69.0, 155.83496289888993)
+[24Jan2025 03:14:51.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[24Jan2025 03:14:54.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3252ms or 65 ticks behind
+[24Jan2025 03:18:25.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 03:20:03.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:54449] logged in with entity id 2178 at (-1293.934523759164, 67.0, 160.37363743731717)
+[24Jan2025 03:20:03.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[24Jan2025 03:20:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y?
+[24Jan2025 03:20:21.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> :CCCCCCCCCCCCCCCC
+[24Jan2025 03:20:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> :C
+[24Jan2025 03:20:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> puta el qlo
+[24Jan2025 03:20:38.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ma encima esta lloviendo
+[24Jan2025 03:20:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dejame ver si puedo darme creativo pa devolver tus weas
+[24Jan2025 03:20:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> toma
+[24Jan2025 03:21:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza fell from a high place
+[24Jan2025 03:21:05.923] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 03:21:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> quiero ver algo
+[24Jan2025 03:21:16.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 03:21:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ahora me sale la tumba
+[24Jan2025 03:21:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by wolfire
+[24Jan2025 03:21:25.577] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 03:21:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> verdad si te sale
+[24Jan2025 03:21:46.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> fue el bug donde me mori y se cayo el server que cago la wea
+[24Jan2025 03:22:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> perdi 2 xp ahora
+[24Jan2025 03:22:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mas porque tenia 22
+[24Jan2025 03:22:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mea escalera ctm
+[24Jan2025 03:22:58.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 03:23:06.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hare un caminito
+[24Jan2025 03:23:07.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ven qlo
+[24Jan2025 03:23:43.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
+[24Jan2025 03:23:52.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> creo q me puedo dar creativo
+[24Jan2025 03:24:09.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dime que wea tenias
+[24Jan2025 03:25:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> habla qlo
+[24Jan2025 03:25:43.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> deja buscar unas fotos
+[24Jan2025 03:27:09.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tenia
+[24Jan2025 03:27:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> un catalejo
+[24Jan2025 03:27:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> un sombrero de esos mexicanos
+[24Jan2025 03:27:22.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ven
+[24Jan2025 03:27:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Creative Mode]
+[24Jan2025 03:27:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una picota de diamante con toque de seda
+[24Jan2025 03:27:49.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una picota de esa wea naranja con fortuna y eficiencia
+[24Jan2025 03:27:55.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was doomed to fall by Skeleton
+[24Jan2025 03:27:55.332] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 03:28:01.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que wea naranja ?
+[24Jan2025 03:28:12.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ese mineral de las minas
+[24Jan2025 03:28:46.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Zombie
+[24Jan2025 03:28:46.692] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 03:28:49.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Timed out
+[24Jan2025 03:28:49.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[24Jan2025 03:30:55.912] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@d7759a7[id=<null>,name=ElLogonza,properties={},legacy=false] (/127.34.213.96:56157): Took too long to log in
+[24Jan2025 03:30:55.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d7759a7[id=<null>,name=ElLogonza,properties={},legacy=false] (/127.34.213.96:56157) lost connection: Took too long to log in
+[24Jan2025 03:30:55.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 03:31:55.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:33289] logged in with entity id 8801 at (-1294.5995610490518, 68.9375, 146.47979667439287)
+[24Jan2025 03:31:55.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[24Jan2025 03:31:59.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! 5.123479833046076,0.0,9.257024071692427
+[24Jan2025 03:32:24.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que mas tenias ?
+[24Jan2025 03:32:46.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> unos zapatos de diamante con caida de pluma y resistencia una wea asi
+[24Jan2025 03:33:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> un casco de diamante con la wea de flechas y resistencia
+[24Jan2025 03:33:13.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> wea de flechas?
+[24Jan2025 03:33:23.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una pechera de iron con reparacion, resistencia al fuego y espinas
+[24Jan2025 03:33:28.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> era lo mas op esa pechera
+[24Jan2025 03:33:43.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> unos pantalones de diamante con resistencia noma
+[24Jan2025 03:34:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una picota de iron con reparacion, agilidad o una wea asi y resistencia
+[24Jan2025 03:34:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una pala con toque de seda
+[24Jan2025 03:34:21.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> una picota de diamante con toque de seda resistencia
+[24Jan2025 03:34:55.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Cover Me with Diamonds]
+[24Jan2025 03:34:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tun arco encantado con poder elevao y resistencia
+[24Jan2025 03:35:30.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> con la L abres unas quest
+[24Jan2025 03:35:42.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y lo mas importante mi espadita de esas brigidas
+[24Jan2025 03:36:25.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> diamon zweinhander
+[24Jan2025 03:36:39.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> con aspecto igneo, filo y resistencia
+[24Jan2025 03:36:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> era lo mas op que tenia unu
+[24Jan2025 03:37:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Orc Savage with Mace
+[24Jan2025 03:37:22.744] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 03:37:48.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el escudo da lo mismo
+[24Jan2025 03:38:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> menos mal deje la wea que tira calabazas guardao
+[24Jan2025 03:38:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> los iron que e diste tambien
+[24Jan2025 03:41:07.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ontas?
+[24Jan2025 03:41:51.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> toy haciendo tus weas
+[24Jan2025 03:44:18.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ugu
+[24Jan2025 03:44:34.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> no se guardo la wea de twitch pa mandartelo
+[24Jan2025 03:44:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y en kick no jugue mine
+[24Jan2025 03:46:12.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> un carrito de tren
+[24Jan2025 03:46:15.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> dwwww
+[24Jan2025 03:46:45.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> 9 rieles de redstone de veolicudad
+[24Jan2025 03:50:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t 64 antorchas
+[24Jan2025 03:53:46.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 03:54:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> qwea
+[24Jan2025 03:54:20.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no wei mas kjsakjaskjskjajk
+[24Jan2025 03:54:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> eeeeeeeee
+[24Jan2025 03:55:09.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> esto justo era
+[24Jan2025 03:57:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> oe
+[24Jan2025 03:57:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voy a aarreglar la granja de xp
+[24Jan2025 03:58:31.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Set own game mode to Survival Mode]
+[24Jan2025 03:58:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dle
+[24Jan2025 03:58:41.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> yo voy a hacer otro camino }
+[24Jan2025 03:58:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> pero primero ire a cagar
+[24Jan2025 03:58:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> yata
+[24Jan2025 03:58:55.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> askdjahsdka
+[24Jan2025 03:59:40.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te di las botas?
+[24Jan2025 03:59:45.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> nu
+[24Jan2025 03:59:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 04:00:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ee
+[24Jan2025 04:00:13.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> e
+[24Jan2025 04:02:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> voy a cagar
+[24Jan2025 04:02:32.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> recien?
+[24Jan2025 04:06:37.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
+[24Jan2025 04:07:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> taba viendo el morande de ahora
+[24Jan2025 04:07:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y ruperto god wn se pasea a todos los qls
+[24Jan2025 04:18:50.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oli
+[24Jan2025 04:18:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> volvi
+[24Jan2025 04:19:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> gei
+[24Jan2025 04:19:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wn una tortuga anda en bote
+[24Jan2025 04:19:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dejala piola a la shora tortu
+[24Jan2025 04:19:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aksdjh
+[24Jan2025 04:19:54.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni lava?
+[24Jan2025 04:20:10.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> quiero hacer una wea q mate a los monos y que el agua los arrastre
+[24Jan2025 04:21:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 04:21:34.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> nose q wea estoy haciendo
+[24Jan2025 04:21:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mira ven
+[24Jan2025 04:22:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mira el ctrme
+[24Jan2025 04:22:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> el drama
+[24Jan2025 04:22:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> es lo mismo po
+[24Jan2025 04:22:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> es que teni que estar arriba pa que salgan
+[24Jan2025 04:23:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> por eso te digo que no lo hagas pa abajo como aca
+[24Jan2025 04:23:28.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[24Jan2025 04:23:28.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[24Jan2025 04:23:39.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:56819] logged in with entity id 27293 at (-1341.256128556602, 29.0, 119.30000001192093)
+[24Jan2025 04:23:39.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[24Jan2025 04:23:48.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> me boto
+[24Jan2025 04:23:52.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sakjjkasjsakas
+[24Jan2025 04:24:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hice una wea pero no me da nivels
+[24Jan2025 04:28:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> con la lava no da niveles aunque les pegues antes y dsp
+[24Jan2025 04:28:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
+[24Jan2025 04:28:17.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> f
+[24Jan2025 04:28:58.202] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 04:34:34.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wn al lao de tu casa hay una tumba mia aksdjahsdka
+[24Jan2025 04:34:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has reached the goal [Easy Opening]
+[24Jan2025 04:34:41.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sakjkjaskjaskjsakjs
+[24Jan2025 04:34:48.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q wea
+[24Jan2025 04:34:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> en vola ahi estan tus weas xD
+[24Jan2025 04:35:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> nel
+[24Jan2025 04:35:08.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q wea las tortugas qlas
+[24Jan2025 04:46:05.902] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 04:47:42.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[24Jan2025 04:48:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wn hay orcos en la entra al nether
+[24Jan2025 04:48:40.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported wolfire to ElLogonza]
+[24Jan2025 04:48:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y el caminito?
+[24Jan2025 05:04:38.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toi haciendo el camino a las peñas ctm
+[24Jan2025 05:05:09.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 05:08:15.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 05:20:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ontas?
+[24Jan2025 05:21:14.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mi casa
+[24Jan2025 05:21:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hice un camino al portal pa mi casa
+[24Jan2025 05:21:42.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> la media tira csm askjkjsakjasjk
+[24Jan2025 05:21:47.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> see wn
+[24Jan2025 05:21:57.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> como pa las peñas
+[24Jan2025 05:23:46.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 05:26:05.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was shot by Aetherial Glaze
+[24Jan2025 05:26:05.653] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 05:26:08.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> skjaskjkjaskjjaks
+[24Jan2025 05:26:22.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> taba poniendo los shaders
+[24Jan2025 05:30:12.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> oe cachai dond puedo encontrar llaves tipo estrella?
+[24Jan2025 05:30:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> pa abrir el note y limpiarlo
+[24Jan2025 05:30:19.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kie
+[24Jan2025 05:30:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> esas que son re chicas
+[24Jan2025 05:30:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aaaa slkklasklklasl
+[24Jan2025 05:30:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> en forma de estrella
+[24Jan2025 05:30:37.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> kajnsdkasdjn
+[24Jan2025 05:30:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> comprate una de paleta chica y era skjajkskjsaj
+[24Jan2025 05:30:54.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> XD
+[24Jan2025 05:30:58.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> no hay
+[24Jan2025 05:31:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tiene q ser de esas de estrella
+[24Jan2025 05:31:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hace un puertito p
+[24Jan2025 05:31:57.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no te traigai a los wnes po
+[24Jan2025 05:32:09.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te los voy a mandar a tu casa qlo
+[24Jan2025 05:32:12.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza withered away
+[24Jan2025 05:32:13.016] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 05:32:37.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q weaa
+[24Jan2025 05:32:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> toy mariaao
+[24Jan2025 05:33:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mate una mandragora y me ejo entro distorionao
+[24Jan2025 05:36:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ponle guardias al puente
+[24Jan2025 05:36:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> seeeee
+[24Jan2025 05:40:27.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> las esporas estan rompiendo rejas
+[24Jan2025 05:40:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[24Jan2025 05:40:38.402] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[24Jan2025 05:40:42.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> trae lava
+[24Jan2025 05:40:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya
+[24Jan2025 05:41:56.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> listo
+[24Jan2025 05:43:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[24Jan2025 05:43:38.247] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[24Jan2025 05:44:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dame la lava
+[24Jan2025 05:44:34.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dejala tirada
+[24Jan2025 05:45:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ven
+[24Jan2025 05:45:11.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[24Jan2025 05:46:04.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que lindo wn
+[24Jan2025 05:46:31.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> traelos
+[24Jan2025 05:46:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> y te tepeo
+[24Jan2025 05:46:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
+[24Jan2025 05:47:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Nightmare Stalker
+[24Jan2025 05:47:04.542] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[24Jan2025 05:47:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[24Jan2025 05:47:06.660] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[24Jan2025 05:47:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mono qloo
+[24Jan2025 05:47:09.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[24Jan2025 05:47:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ontan?
+[24Jan2025 05:47:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ni idea
+[24Jan2025 05:48:19.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no caques las weas con las manos
+[24Jan2025 05:48:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sacalas con lava
+[24Jan2025 05:48:55.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> quede ciego
+[24Jan2025 05:48:58.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> solo con lava
+[24Jan2025 05:49:14.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el mono invisible es el mas brigido
+[24Jan2025 05:49:20.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
+[24Jan2025 05:50:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya wn me voy a la durma
+[24Jan2025 05:50:21.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[24Jan2025 05:50:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[24Jan2025 05:50:27.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[24Jan2025 05:50:33.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[24Jan2025 05:50:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[24Jan2025 05:50:47.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jan2025 05:50:47.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jan2025 05:50:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jan2025 05:50:47.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jan2025 05:50:47.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jan2025 05:50:47.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jan2025 05:50:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jan2025 05:50:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jan2025 05:50:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jan2025 05:50:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jan2025 05:50:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Jan2025 05:50:47.656] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Jan2025 05:50:47.656] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
