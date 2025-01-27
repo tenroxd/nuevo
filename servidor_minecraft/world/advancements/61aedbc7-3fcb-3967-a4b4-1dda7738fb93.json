@@ -6882,12 +6882,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-27 03:37:51 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/green_toilet": {
     "criteria": {
       "has_green_dye": "2025-01-27 03:37:29 +0000"
@@ -6933,6 +6927,18 @@
   "refurbished_furniture:recipes/misc/constructing/green_kitchen_storage_cabinet": {
     "criteria": {
       "has_green_dye": "2025-01-27 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-01-27 03:37:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bowfor_wizards": {
+    "criteria": {
+      "bowfor_wizards_0": "2025-01-27 03:55:56 +0000"
     },
     "done": true
   },
