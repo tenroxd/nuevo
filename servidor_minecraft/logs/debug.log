@@ -2668,3 +2668,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jan2025 03:06:37.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:53251] logged in with entity id 15275 at (-1330.6600533373928, 95.0, 102.731977036051)
 [27Jan2025 03:06:37.281] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@273733ef into net.minecraft.network.Connection@30c71ec2
 [27Jan2025 03:06:37.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[27Jan2025 03:08:32.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:08:32.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 03:08:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni tinte comunista?
+[27Jan2025 03:08:44.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> nel lo gaste todo
+[27Jan2025 03:13:32.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:13:32.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 03:15:09.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[27Jan2025 03:15:10.449] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1296, y:73, z:245, dim:minecraft:overworld]
+[27Jan2025 03:15:10.451] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[27Jan2025 03:15:18.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> le dio wither
+[27Jan2025 03:17:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mimir
+[27Jan2025 03:17:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mimir
+[27Jan2025 03:17:34.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[27Jan2025 03:17:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[27Jan2025 03:17:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimi2
