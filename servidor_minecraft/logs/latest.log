@@ -123,3 +123,5 @@
 [27Jan2025 03:17:34.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [27Jan2025 03:17:34.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
 [27Jan2025 03:17:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimi2
+[27Jan2025 03:20:34.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:44981] logged in with entity id 20128 at (-1289.6996646045845, 70.0, 229.6769688518245)
+[27Jan2025 03:20:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
