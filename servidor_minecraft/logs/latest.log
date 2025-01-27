@@ -98,3 +98,13 @@
 [27Jan2025 02:40:38.995] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
 [27Jan2025 02:40:41.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> asdkajhsdkaj
 [27Jan2025 02:41:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimir po
+[27Jan2025 02:52:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mimir
+[27Jan2025 02:52:47.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[27Jan2025 02:52:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[27Jan2025 02:52:57.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:49429] logged in with entity id 11345 at (-1414.9288054201786, 64.0, 222.29120350166454)
+[27Jan2025 02:52:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[27Jan2025 02:53:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> yapoi k
+[27Jan2025 02:53:05.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[27Jan2025 02:53:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[27Jan2025 02:53:12.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:50191] logged in with entity id 11606 at (-1414.9288054201786, 64.0, 222.29120350166454)
+[27Jan2025 02:53:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
