@@ -108,3 +108,8 @@
 [27Jan2025 02:53:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
 [27Jan2025 02:53:12.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.34.213.96:50191] logged in with entity id 11606 at (-1414.9288054201786, 64.0, 222.29120350166454)
 [27Jan2025 02:53:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[27Jan2025 03:04:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimir?
+[27Jan2025 03:04:55.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[27Jan2025 03:04:55.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[27Jan2025 03:06:37.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.213.8.213:53251] logged in with entity id 15275 at (-1330.6600533373928, 95.0, 102.731977036051)
+[27Jan2025 03:06:37.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
