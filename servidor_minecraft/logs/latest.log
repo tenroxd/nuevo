@@ -344,3 +344,5 @@
 [27Jan2025 04:32:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me voy a la durma
 [27Jan2025 04:32:46.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [27Jan2025 04:32:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[27Jan2025 04:56:13.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[27Jan2025 04:56:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
