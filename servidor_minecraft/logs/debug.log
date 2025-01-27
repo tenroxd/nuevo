@@ -2856,3 +2856,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jan2025 03:38:18.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [27Jan2025 03:38:32.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jan2025 03:38:32.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 03:40:07.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire withered away
+[27Jan2025 03:40:07.848] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1296, y:73, z:242, dim:minecraft:overworld]
+[27Jan2025 03:40:07.850] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[27Jan2025 03:43:32.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:43:32.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 03:45:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tengo tierra con pasto por si quesi
+[27Jan2025 03:46:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> vale vale
+[27Jan2025 03:48:32.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jan2025 03:48:32.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jan2025 03:49:00.553] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
