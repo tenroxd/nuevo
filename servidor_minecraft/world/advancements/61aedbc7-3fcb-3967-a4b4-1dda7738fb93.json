@@ -6960,5 +6960,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2025-02-04 18:55:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
