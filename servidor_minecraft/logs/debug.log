@@ -2266,3 +2266,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Feb2025 03:47:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aca full de caños
 [04Feb2025 03:47:41.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aca las mesan se usan pa bailar skjajkaskjjas
 [04Feb2025 03:47:46.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> see
+[04Feb2025 03:47:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> skt unas mesas
+[04Feb2025 03:48:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ese perro qlo
+[04Feb2025 03:48:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> matemo esa wea
+[04Feb2025 03:48:15.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza was slain by Nightmare Stalker
+[04Feb2025 03:48:15.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player ElLogonza was created at position [x:-1413, y:64, z:225, dim:minecraft:overworld]
+[04Feb2025 03:48:15.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:48:15.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:48:15.925] [Server thread/INFO] [tombstone/]: The player ElLogonza has successfully been saved
+[04Feb2025 03:48:53.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was slain by Nightmare Stalker
+[04Feb2025 03:48:54.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1420, y:64, z:220, dim:minecraft:overworld]
+[04Feb2025 03:48:54.399] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[04Feb2025 03:48:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has reached the goal [Fighting Nightmares]
+[04Feb2025 03:49:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> doble kill
+[04Feb2025 03:49:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> no deji basura aca po
+[04Feb2025 03:49:46.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ctm el guardia
+[04Feb2025 03:50:37.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Feb2025 03:51:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> dark rod pa q es?
+[04Feb2025 03:51:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ni idea
+[04Feb2025 03:51:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> e
+[04Feb2025 03:52:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> cuando te veni pa arica?
+[04Feb2025 03:52:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> antes del 14
+[04Feb2025 03:53:15.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:53:15.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:54:20.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hay visto mas mobs?
+[04Feb2025 03:54:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> en otros biomas
+[04Feb2025 03:54:59.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aca me traigo dos
+[04Feb2025 03:55:34.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> la mas brigida va a ser una del infierno
+[04Feb2025 03:56:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> me lagie
+[04Feb2025 03:56:49.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> desaparecio una venezolana wn
+[04Feb2025 03:56:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> askjkjaskkjsakjkjas
+[04Feb2025 03:57:07.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> hay que ponerles nombres pa que no despawneen
