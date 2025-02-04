@@ -2238,3 +2238,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Feb2025 02:46:09.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 02:46:09.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 02:47:10.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni hilo?
+[04Feb2025 02:51:09.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 02:51:09.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 02:51:59.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire has made the advancement [Junior Summoner]
+[04Feb2025 02:52:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hacker
+[04Feb2025 02:54:58.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1313, y=69, z=210} BlockPos{x=-1313, y=67, z=212}
+[04Feb2025 02:56:09.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 02:56:09.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 02:56:24.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Feb2025 02:57:16.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1445, y=69, z=226} BlockPos{x=-1444, y=69, z=226}
+[04Feb2025 02:57:16.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1445, y=69, z=226} BlockPos{x=-1445, y=69, z=225}
+[04Feb2025 02:57:16.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1445, y=69, z=226} BlockPos{x=-1445, y=69, z=225}
+[04Feb2025 02:59:39.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> succiona el aparato reproductor masculino
+[04Feb2025 02:59:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> we
