@@ -2409,3 +2409,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Feb2025 19:24:06.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [04Feb2025 19:24:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> donde saco steel ingot?
 [04Feb2025 19:24:30.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> teni que quemar lingotes de hierro
+[04Feb2025 19:25:01.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:25:01.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:28:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> a
+[04Feb2025 19:28:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> legal?
+[04Feb2025 19:28:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
+[04Feb2025 19:30:01.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:30:01.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 19:31:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> pero ese no es
+[04Feb2025 19:31:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> es el otro
+[04Feb2025 19:33:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> como se llama
+[04Feb2025 19:33:53.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Feb2025 19:34:08.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1333, y=68, z=239} BlockPos{x=-1332, y=67, z=239}
