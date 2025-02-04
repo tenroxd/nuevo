@@ -6979,5 +6979,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2025-02-04 19:42:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
