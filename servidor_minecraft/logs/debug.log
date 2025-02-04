@@ -2251,3 +2251,49 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Feb2025 02:57:16.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1445, y=69, z=226} BlockPos{x=-1445, y=69, z=225}
 [04Feb2025 02:59:39.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> succiona el aparato reproductor masculino
 [04Feb2025 02:59:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> we
+[04Feb2025 03:01:09.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:01:09.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:02:02.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1330, y=68, z=227} BlockPos{x=-1331, y=66, z=227}
+[04Feb2025 03:06:09.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:06:09.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:07:53.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> oe qlo
+[04Feb2025 03:07:56.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> a
+[04Feb2025 03:08:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> cuando transmites se queda grabado?}
+[04Feb2025 03:08:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> en kick
+[04Feb2025 03:08:30.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> en twitch no me quedo la otra vez
+[04Feb2025 03:08:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> yata
+[04Feb2025 03:08:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> pa que abras la caga de sv
+[04Feb2025 03:08:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te enseño altoq ?
+[04Feb2025 03:10:27.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te enseño altoq ?
+[04Feb2025 03:10:34.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> yapo
+[04Feb2025 03:10:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> yata
+[04Feb2025 03:10:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> hare los arreglos
+[04Feb2025 03:11:05.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1318, y=68, z=219} BlockPos{x=-1318, y=67, z=220}
+[04Feb2025 03:11:09.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:11:09.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:11:20.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aer
+[04Feb2025 03:12:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ds
+[04Feb2025 03:12:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voi
+[04Feb2025 03:12:32.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Feb2025 03:12:32.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[04Feb2025 03:12:37.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> esperame ahi
+[04Feb2025 03:12:39.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[04Feb2025 03:12:39.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[04Feb2025 03:12:59.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Feb2025 03:12:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Feb2025 03:12:59.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Feb2025 03:12:59.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Server closed
+[04Feb2025 03:12:59.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[04Feb2025 03:12:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Feb2025 03:13:00.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Feb2025 03:13:01.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Feb2025 03:13:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Feb2025 03:13:01.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:13:01.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:13:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Feb2025 03:13:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Feb2025 03:13:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Feb2025 03:13:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Feb2025 03:13:01.223] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Feb2025 03:13:01.224] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[04Feb2025 03:13:01.226] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

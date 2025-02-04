@@ -6942,5 +6942,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_hedge": {
+    "criteria": {
+      "has_dark_oak_leaves": "2025-02-04 03:00:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
