@@ -6961,6 +6961,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-04 19:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-04 19:17:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/laviathan_spyglass": {
     "criteria": {
       "spyglass_at_bison": "2025-02-04 18:55:25 +0000"
