@@ -194,3 +194,6 @@
 [04Feb2025 19:53:24.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
 [04Feb2025 19:53:28.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
 [04Feb2025 19:53:28.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[04Feb2025 19:58:00.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[04Feb2025 19:58:14.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[04Feb2025 19:58:14.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
