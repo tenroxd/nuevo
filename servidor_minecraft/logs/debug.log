@@ -2268,3 +2268,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Feb2025 01:11:52.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
 [05Feb2025 01:14:29.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> weooon
 [05Feb2025 01:14:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ese wn hace pico
+[05Feb2025 01:16:16.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:16:16.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:17:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire burned to death
+[05Feb2025 01:17:12.905] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1260, y:66, z:179, dim:minecraft:overworld]
+[05Feb2025 01:17:12.913] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[05Feb2025 01:17:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> XDDD
+[05Feb2025 01:17:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> no los mates
+[05Feb2025 01:18:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dejamelos a mi
+[05Feb2025 01:18:52.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire burned to death
+[05Feb2025 01:18:53.061] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1289, y:67, z:214, dim:minecraft:overworld]
+[05Feb2025 01:18:53.063] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[05Feb2025 01:19:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> monos qls
+[05Feb2025 01:21:16.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:21:16.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:24:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> orcos re qlos
