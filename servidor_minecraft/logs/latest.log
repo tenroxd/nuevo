@@ -135,3 +135,13 @@
 [05Feb2025 01:45:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> csm
 [05Feb2025 01:45:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ven qk
 [05Feb2025 01:46:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q wea
+[05Feb2025 01:46:31.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Feb2025 01:47:08.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[05Feb2025 01:47:08.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[05Feb2025 01:50:45.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[05Feb2025 01:51:44.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[05Feb2025 01:51:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[05Feb2025 01:51:50.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.5.252.51:37627] logged in with entity id 22207 at (-1378.4122427996074, 65.0, 216.82806713877048)
+[05Feb2025 01:51:51.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[05Feb2025 01:55:59.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.156.220.94:38849] logged in with entity id 23343 at (-1302.1392170451402, 67.0, 223.76187807889895)
+[05Feb2025 01:55:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
