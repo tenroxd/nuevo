@@ -1,199 +1,92 @@
-[04Feb2025 18:44:27.171] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[04Feb2025 18:44:27.176] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Feb2025 18:44:27.994] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Feb2025 18:44:28.007] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[04Feb2025 18:44:28.009] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/nuevo/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
-[04Feb2025 18:44:28.022] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/nuevo/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[04Feb2025 18:44:28.024] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[04Feb2025 18:44:28.086] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/nuevo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Feb2025 18:44:28.095] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[04Feb2025 18:44:28.407] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Feb2025 18:44:28.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Feb2025 18:44:28.410] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Feb2025 18:44:28.412] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Feb2025 18:44:28.527] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[04Feb2025 18:44:29.011] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[04Feb2025 18:44:29.024] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[04Feb2025 18:44:29.523] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[04Feb2025 18:44:30.605] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Feb2025 18:44:30.633] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04Feb2025 18:44:36.927] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04Feb2025 18:44:38.200] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[04Feb2025 18:44:38.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Feb2025 18:44:39.246] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Feb2025 18:44:39.247] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Feb2025 18:44:39.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[04Feb2025 18:44:39.296] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[04Feb2025 18:44:41.386] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[04Feb2025 18:44:41.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[04Feb2025 18:44:41.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
-[04Feb2025 18:44:41.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[04Feb2025 18:44:41.900] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[04Feb2025 18:44:42.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
-[04Feb2025 18:44:42.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[04Feb2025 18:44:42.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[04Feb2025 18:44:42.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Feb2025 18:44:42.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[04Feb2025 18:44:43.463] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Feb2025 18:44:44.710] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[04Feb2025 18:44:44.710] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[04Feb2025 18:44:46.581] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[04Feb2025 18:44:46.618] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
+[05Feb2025 00:55:42.785] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[05Feb2025 00:55:42.791] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Feb2025 00:55:43.576] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Feb2025 00:55:43.587] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[05Feb2025 00:55:43.588] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/nuevo/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23117!/
+[05Feb2025 00:55:43.594] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/nuevo/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[05Feb2025 00:55:43.595] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[05Feb2025 00:55:43.651] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/nuevo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Feb2025 00:55:43.661] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[05Feb2025 00:55:43.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Feb2025 00:55:43.949] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Feb2025 00:55:43.951] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Feb2025 00:55:43.952] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/nuevo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Feb2025 00:55:44.111] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[05Feb2025 00:55:44.622] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[05Feb2025 00:55:44.632] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[05Feb2025 00:55:45.127] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[05Feb2025 00:55:46.074] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Feb2025 00:55:46.100] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[05Feb2025 00:55:52.319] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zbi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Feb2025 00:55:53.467] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[05Feb2025 00:55:53.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Feb2025 00:55:54.601] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Feb2025 00:55:54.601] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Feb2025 00:55:54.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[05Feb2025 00:55:54.630] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[05Feb2025 00:55:56.504] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[05Feb2025 00:55:56.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05Feb2025 00:55:56.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.0 Target: 8.9.0
+[05Feb2025 00:55:56.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[05Feb2025 00:55:57.040] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[05Feb2025 00:55:57.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[05Feb2025 00:55:57.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[05Feb2025 00:55:57.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[05Feb2025 00:55:57.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Feb2025 00:55:57.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[05Feb2025 00:55:58.920] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Feb2025 00:56:00.152] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[05Feb2025 00:56:00.153] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/nuevo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[05Feb2025 00:56:02.030] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Feb2025 00:56:02.069] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:impact_projectiles as it is missing following references: ancient_elements:crystalbeam_projectile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:deflected_wind (from ancient_elements-1.3.4.jar), 
 	ancient_elements:moltenspearprojektile (from ancient_elements-1.3.4.jar), 
 	ancient_elements:wind (from ancient_elements-1.3.4.jar)
-[04Feb2025 18:44:47.466] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
-[04Feb2025 18:44:47.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[04Feb2025 18:44:47.622] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
-[04Feb2025 18:44:47.625] [main/INFO] [Dungeon Crawl/]: Loading data...
-[04Feb2025 18:44:48.007] [main/INFO] [Dungeon Crawl/]: Done.
-[04Feb2025 18:44:48.038] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
-[04Feb2025 18:44:49.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Feb2025 18:44:49.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Feb2025 18:44:49.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Feb2025 18:44:49.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Feb2025 18:44:49.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Feb2025 18:44:49.378] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Feb2025 18:44:49.466] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Feb2025 18:44:49.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Feb2025 18:44:49.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Feb2025 18:44:49.467] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Feb2025 18:44:49.604] [Server thread/INFO] [Framework/]: Loading server configs...
-[04Feb2025 18:44:49.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Feb2025 18:44:52.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Feb2025 18:44:57.685] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.688] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.689] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.690] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.691] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.692] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.694] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.696] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:57.925] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Feb2025 18:44:58.426] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[04Feb2025 18:44:58.738] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5813 ms
-[04Feb2025 18:44:58.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.259s)! For help, type "help"
-[04Feb2025 18:44:58.774] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Feb2025 18:47:18.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.5.252.51:32775] logged in with entity id 619 at (-194.69896271114106, 13.001335979112149, 71.22758597028398)
-[04Feb2025 18:47:18.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[04Feb2025 18:51:07.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 18:55:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has completed the challenge [Loch-Nether Monster!]
-[04Feb2025 19:05:26.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:05:31.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:10:58.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.156.220.94:51225] logged in with entity id 3984 at (-1289.8736118523643, 68.9375, 152.06585142696258)
-[04Feb2025 19:10:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
-[04Feb2025 19:11:01.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
-[04Feb2025 19:11:41.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:12:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> gay
-[04Feb2025 19:12:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> weeon
-[04Feb2025 19:12:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tepeate a mi
-[04Feb2025 19:15:41.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:17:36.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Who is Cutting Onions?]
-[04Feb2025 19:19:16.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:19:27.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> e
-[04Feb2025 19:20:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kie
-[04Feb2025 19:20:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tepetamee
-[04Feb2025 19:20:17.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> teni lapiz lazuli?
-[04Feb2025 19:20:17.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:20:20.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> si
-[04Feb2025 19:20:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> te tpeo a tu casa?
-[04Feb2025 19:20:44.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> sacanme del neter
-[04Feb2025 19:20:52.447] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:21:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [wolfire: Teleported ElLogonza to wolfire]
-[04Feb2025 19:21:17.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wnn quee a medio corazon
-[04Feb2025 19:21:21.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> skjakjsakskja
-[04Feb2025 19:21:25.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> y mis niveles???
-[04Feb2025 19:21:33.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
-[04Feb2025 19:21:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
-[04Feb2025 19:21:36.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> q se yo qlo
-[04Feb2025 19:21:39.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.5.252.51:56325] logged in with entity id 9957 at (-1429.9703593818062, 92.0, 159.43870255188148)
-[04Feb2025 19:21:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
-[04Feb2025 19:21:45.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aya
-[04Feb2025 19:22:05.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aonde teni lapiz
-[04Feb2025 19:22:10.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> abajo
-[04Feb2025 19:22:18.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> en la sala de encantamiento
-[04Feb2025 19:24:06.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[04Feb2025 19:24:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> donde saco steel ingot?
-[04Feb2025 19:24:30.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> teni que quemar lingotes de hierro
-[04Feb2025 19:28:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> a
-[04Feb2025 19:28:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> legal?
-[04Feb2025 19:28:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> sep
-[04Feb2025 19:31:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> pero ese no es
-[04Feb2025 19:31:32.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> es el otro
-[04Feb2025 19:33:42.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> como se llama
-[04Feb2025 19:33:53.483] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[04Feb2025 19:34:08.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1333, y=68, z=239} BlockPos{x=-1332, y=67, z=239}
-[04Feb2025 19:35:37.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ontas?
-[04Feb2025 19:35:41.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aplanando
-[04Feb2025 19:36:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> el qlo
-[04Feb2025 19:36:15.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mira
-[04Feb2025 19:36:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> onde tay
-[04Feb2025 19:36:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mir apo
-[04Feb2025 19:36:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mira po
-[04Feb2025 19:36:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> kisawea
-[04Feb2025 19:36:54.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> aether
-[04Feb2025 19:37:06.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aaa de la wea del cielo
-[04Feb2025 19:37:09.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> e
-[04Feb2025 19:42:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza has made the advancement [Planting the Past]
-[04Feb2025 19:43:24.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
-[04Feb2025 19:49:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> teni 2 iron?
-[04Feb2025 19:49:28.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> se
-[04Feb2025 19:49:41.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> skt
-[04Feb2025 19:49:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> t
-[04Feb2025 19:50:16.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1339, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:16.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:16.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1339, y=68, z=232} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:16.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=232} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=231} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=68, z=234} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:17.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1341, y=68, z=234} BlockPos{x=-1341, y=68, z=232}
-[04Feb2025 19:50:39.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=67, z=235} BlockPos{x=-1347, y=67, z=235}
-[04Feb2025 19:50:39.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=67, z=235} BlockPos{x=-1347, y=67, z=235}
-[04Feb2025 19:50:40.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=67, z=235} BlockPos{x=-1347, y=67, z=235}
-[04Feb2025 19:50:40.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=67, z=235} BlockPos{x=-1346, y=66, z=236}
-[04Feb2025 19:50:40.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=67, z=237} BlockPos{x=-1346, y=66, z=236}
-[04Feb2025 19:50:40.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=67, z=237} BlockPos{x=-1346, y=66, z=236}
-[04Feb2025 19:50:40.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=67, z=237} BlockPos{x=-1346, y=66, z=236}
-[04Feb2025 19:50:41.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=68, z=234} BlockPos{x=-1347, y=68, z=235}
-[04Feb2025 19:50:41.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=67, z=234} BlockPos{x=-1347, y=68, z=235}
-[04Feb2025 19:50:41.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=67, z=235} BlockPos{x=-1347, y=68, z=235}
-[04Feb2025 19:50:41.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=67, z=234} BlockPos{x=-1347, y=68, z=235}
-[04Feb2025 19:50:51.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=69, z=236} BlockPos{x=-1347, y=68, z=235}
-[04Feb2025 19:50:51.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=69, z=237} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:51.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:51.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:51.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:51.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:51.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=70, z=236} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=235} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=234} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=69, z=234} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:52.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:50:53.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=69, z=233} BlockPos{x=-1347, y=69, z=235}
-[04Feb2025 19:53:08.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1411, y=68, z=235} BlockPos{x=-1412, y=67, z=235}
-[04Feb2025 19:53:08.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1411, y=68, z=234} BlockPos{x=-1412, y=68, z=235}
-[04Feb2025 19:53:08.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1412, y=67, z=234} BlockPos{x=-1412, y=68, z=235}
-[04Feb2025 19:53:08.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1412, y=67, z=234} BlockPos{x=-1412, y=68, z=235}
-[04Feb2025 19:53:09.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1411, y=67, z=233} BlockPos{x=-1412, y=68, z=231}
-[04Feb2025 19:53:24.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:24.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:24.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:24.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:24.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:24.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1414, y=68, z=228} BlockPos{x=-1415, y=69, z=229}
-[04Feb2025 19:53:28.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
-[04Feb2025 19:53:28.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
-[04Feb2025 19:58:00.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
-[04Feb2025 19:58:14.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
-[04Feb2025 19:58:14.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[05Feb2025 00:56:02.876] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
+[05Feb2025 00:56:02.910] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[05Feb2025 00:56:03.034] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2421 advancements
+[05Feb2025 00:56:03.037] [main/INFO] [Dungeon Crawl/]: Loading data...
+[05Feb2025 00:56:03.287] [main/INFO] [Dungeon Crawl/]: Done.
+[05Feb2025 00:56:03.323] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_plains
+[05Feb2025 00:56:04.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Feb2025 00:56:04.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Feb2025 00:56:04.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Feb2025 00:56:04.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Feb2025 00:56:04.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Feb2025 00:56:04.586] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Feb2025 00:56:04.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Feb2025 00:56:04.666] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Feb2025 00:56:04.666] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Feb2025 00:56:04.666] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Feb2025 00:56:04.771] [Server thread/INFO] [Framework/]: Loading server configs...
+[05Feb2025 00:56:04.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Feb2025 00:56:07.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Feb2025 00:56:11.797] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.813] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.818] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.844] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.849] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:11.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:12.403] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Feb2025 00:56:12.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[05Feb2025 00:56:13.235] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5332 ms
+[05Feb2025 00:56:13.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.557s)! For help, type "help"
+[05Feb2025 00:56:13.269] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Feb2025 00:56:21.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElLogonza[/127.5.252.51:35035] logged in with entity id 619 at (-1461.169146180921, 95.0625, 155.53069726909737)
+[05Feb2025 00:56:21.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza joined the game
+[05Feb2025 00:56:24.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[05Feb2025 00:57:32.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.156.220.94:56485] logged in with entity id 1160 at (-1281.6381198794616, 67.0, 217.84402289192806)
+[05Feb2025 00:57:32.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
+[05Feb2025 00:58:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> gei
+[05Feb2025 00:58:32.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> callao puta
+[05Feb2025 01:02:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> wekereke
+[05Feb2025 01:03:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> mari con aso
+[05Feb2025 01:03:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> compro diamond
+[05Feb2025 01:04:04.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> efe
+[05Feb2025 01:04:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> se me rompio el pico con reparacion wn
+[05Feb2025 01:04:18.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> que eri gay
+[05Feb2025 01:05:34.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ontas?
+[05Feb2025 01:05:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> aplanando
