@@ -122,3 +122,10 @@
 [05Feb2025 01:18:53.063] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
 [05Feb2025 01:19:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> monos qls
 [05Feb2025 01:24:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> orcos re qlos
+[05Feb2025 01:26:39.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> que pasa permatrago
+[05Feb2025 01:27:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> mimi2
+[05Feb2025 01:27:43.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Disconnected
+[05Feb2025 01:27:43.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[05Feb2025 01:27:55.329] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Feb2025 01:29:01.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wolfire[/127.156.220.94:48723] logged in with entity id 15080 at (-1257.3981559144413, 69.0, 221.47267421254827)
+[05Feb2025 01:29:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
