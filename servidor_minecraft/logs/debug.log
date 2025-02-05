@@ -2716,3 +2716,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Feb2025 02:05:15.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hay visto ovejas?
 [05Feb2025 02:06:16.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 02:06:16.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:07:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> taba hablando con mis viejos
+[05Feb2025 02:07:31.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ahora veo la foto
+[05Feb2025 02:07:55.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voy a tomar tecito
+[05Feb2025 02:08:12.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya
+[05Feb2025 02:08:13.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> akjhsdkaj
+[05Feb2025 02:08:19.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> voi a tomar te y vengo
+[05Feb2025 02:08:22.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
+[05Feb2025 02:08:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
+[05Feb2025 02:08:23.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dle
+[05Feb2025 02:11:16.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:11:16.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:16:16.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:16:16.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
