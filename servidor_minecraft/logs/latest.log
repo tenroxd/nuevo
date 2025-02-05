@@ -164,3 +164,4 @@
 [05Feb2025 02:08:22.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElLogonza lost connection: Disconnected
 [05Feb2025 02:08:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElLogonza left the game
 [05Feb2025 02:08:23.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> dle
+[05Feb2025 02:20:17.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
