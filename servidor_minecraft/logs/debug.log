@@ -2701,3 +2701,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Feb2025 01:55:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [05Feb2025 01:56:16.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 01:56:16.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:58:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire was burnt to a crisp whilst fighting Goblin Savage
+[05Feb2025 01:58:32.725] [Server thread/DEBUG] [tombstone/]: A new grave of the player wolfire was created at position [x:-1254, y:70, z:237, dim:minecraft:overworld]
+[05Feb2025 01:58:32.729] [Server thread/INFO] [tombstone/]: The player wolfire has successfully been saved
+[05Feb2025 01:58:35.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> asdasdadadad
+[05Feb2025 02:00:06.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[05Feb2025 02:01:16.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:01:16.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:03:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> te iba a mostrar una foto pa wea
+[05Feb2025 02:03:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> por eso te preguntaba si estaba tu ñora
+[05Feb2025 02:03:19.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> pa q no se malentendiera
+[05Feb2025 02:03:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> manda foto maricons
+[05Feb2025 02:03:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> ya
+[05Feb2025 02:05:15.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> hay visto ovejas?
+[05Feb2025 02:06:16.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:06:16.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
