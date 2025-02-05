@@ -2420,3 +2420,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Feb2025 01:29:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire joined the game
 [05Feb2025 01:31:16.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 01:31:16.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:36:16.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:36:16.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:41:16.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:41:16.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:44:29.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> en este sv como que el fuego no se propaga
+[05Feb2025 01:44:35.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> como?
+[05Feb2025 01:44:40.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> tu deci?
+[05Feb2025 01:45:55.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> csm
+[05Feb2025 01:45:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wolfire> ven qk
+[05Feb2025 01:46:15.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElLogonza> q wea
+[05Feb2025 01:46:16.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:46:16.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
