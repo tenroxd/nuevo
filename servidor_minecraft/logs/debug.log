@@ -2141,3 +2141,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Feb2025 04:15:19.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Feb2025 04:15:19.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Feb2025 04:18:15.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[11Feb2025 04:20:19.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 04:20:19.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Feb2025 04:20:22.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire moved too quickly! 0.15977528901112237,-1.0104000401496904,10.860359805624569
+[11Feb2025 04:21:05.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wolfire lost connection: Timed out
+[11Feb2025 04:21:05.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wolfire left the game
+[11Feb2025 04:21:05.282] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=140}
+[11Feb2025 04:21:05.282] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1299, y=56, z=134}
+[11Feb2025 04:21:05.282] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-1311, y=56, z=141}
+[11Feb2025 04:25:19.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Feb2025 04:25:19.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
